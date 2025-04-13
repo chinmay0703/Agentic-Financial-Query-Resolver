@@ -48,7 +48,7 @@ Install the required dependencies using the following command:
 ## Setup and Run the App
 
 ### Step 1: Upload Financial Data
-Upload a CSV file containing your financial data (e.g., income, expenses, transactions).
+- Upload a CSV file containing your financial data (e.g., income, expenses, transactions).
 
 ### Step 2: Install Dependencies
 - Run the following command in your terminal or Jupyter Notebook:
