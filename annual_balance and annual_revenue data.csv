@@ -1,0 +1,1681 @@
+year,month,section,description,value,source_file
+2022,April,Income,Total Revenue,15012.0,Annual Revenue Report 2022-2023 .csv
+2022,May,Income,Total Revenue,12680.44,Annual Revenue Report 2022-2023 .csv
+2022,June,Income,Total Revenue,12423.39,Annual Revenue Report 2022-2023 .csv
+2022,July,Income,Total Revenue,10027.84,Annual Revenue Report 2022-2023 .csv
+2022,August,Income,Total Revenue,8021.32,Annual Revenue Report 2022-2023 .csv
+2022,September,Income,Total Revenue,14587.56,Annual Revenue Report 2022-2023 .csv
+2022,October,Income,Total Revenue,11519.79,Annual Revenue Report 2022-2023 .csv
+2022,November,Income,Total Revenue,14302.63,Annual Revenue Report 2022-2023 .csv
+2022,December,Income,Total Revenue,12675.21,Annual Revenue Report 2022-2023 .csv
+2023,January,Income,Total Revenue,15578.5,Annual Revenue Report 2022-2023 .csv
+2023,February,Income,Total Revenue,15208.14,Annual Revenue Report 2022-2023 .csv
+2023,March,Income,Total Revenue,19499.99,Annual Revenue Report 2022-2023 .csv
+2022,April,Direct Expenses,Total Direct Cost,12928.37,Annual Revenue Report 2022-2023 .csv
+2022,May,Direct Expenses,Total Direct Cost,11447.3,Annual Revenue Report 2022-2023 .csv
+2022,June,Direct Expenses,Total Direct Cost,10761.47,Annual Revenue Report 2022-2023 .csv
+2022,July,Direct Expenses,Total Direct Cost,8576.24,Annual Revenue Report 2022-2023 .csv
+2022,August,Direct Expenses,Total Direct Cost,7484.21,Annual Revenue Report 2022-2023 .csv
+2022,September,Direct Expenses,Total Direct Cost,13196.56,Annual Revenue Report 2022-2023 .csv
+2022,October,Direct Expenses,Total Direct Cost,11282.57,Annual Revenue Report 2022-2023 .csv
+2022,November,Direct Expenses,Total Direct Cost,12884.9,Annual Revenue Report 2022-2023 .csv
+2022,December,Direct Expenses,Total Direct Cost,12369.65,Annual Revenue Report 2022-2023 .csv
+2023,January,Direct Expenses,Total Direct Cost,11101.9,Annual Revenue Report 2022-2023 .csv
+2023,February,Direct Expenses,Total Direct Cost,12602.07,Annual Revenue Report 2022-2023 .csv
+2023,March,Direct Expenses,Total Direct Cost,15625.3,Annual Revenue Report 2022-2023 .csv
+2022,April,Direct Expenses,Total Manpower Cost,3802.5,Annual Revenue Report 2022-2023 .csv
+2022,May,Direct Expenses,Total Manpower Cost,3717.49,Annual Revenue Report 2022-2023 .csv
+2022,June,Direct Expenses,Total Manpower Cost,3544.46,Annual Revenue Report 2022-2023 .csv
+2022,July,Direct Expenses,Total Manpower Cost,3602.38,Annual Revenue Report 2022-2023 .csv
+2022,August,Direct Expenses,Total Manpower Cost,2190.41,Annual Revenue Report 2022-2023 .csv
+2022,September,Direct Expenses,Total Manpower Cost,3653.96,Annual Revenue Report 2022-2023 .csv
+2022,October,Direct Expenses,Total Manpower Cost,3773.62,Annual Revenue Report 2022-2023 .csv
+2022,November,Direct Expenses,Total Manpower Cost,3603.76,Annual Revenue Report 2022-2023 .csv
+2022,December,Direct Expenses,Total Manpower Cost,2811.61,Annual Revenue Report 2022-2023 .csv
+2023,January,Direct Expenses,Total Manpower Cost,3674.56,Annual Revenue Report 2022-2023 .csv
+2023,February,Direct Expenses,Total Manpower Cost,4482.11,Annual Revenue Report 2022-2023 .csv
+2023,March,Direct Expenses,Total Manpower Cost,3813.9,Annual Revenue Report 2022-2023 .csv
+2022,April,Indirect Expenses,Indirect Cost,3063.39,Annual Revenue Report 2022-2023 .csv
+2022,May,Indirect Expenses,Indirect Cost,3060.77,Annual Revenue Report 2022-2023 .csv
+2022,June,Indirect Expenses,Indirect Cost,2922.56,Annual Revenue Report 2022-2023 .csv
+2022,July,Indirect Expenses,Indirect Cost,2913.27,Annual Revenue Report 2022-2023 .csv
+2022,August,Indirect Expenses,Indirect Cost,2096.15,Annual Revenue Report 2022-2023 .csv
+2022,September,Indirect Expenses,Indirect Cost,2947.62,Annual Revenue Report 2022-2023 .csv
+2022,October,Indirect Expenses,Indirect Cost,2940.72,Annual Revenue Report 2022-2023 .csv
+2022,November,Indirect Expenses,Indirect Cost,2868.02,Annual Revenue Report 2022-2023 .csv
+2022,December,Indirect Expenses,Indirect Cost,2269.76,Annual Revenue Report 2022-2023 .csv
+2023,January,Indirect Expenses,Indirect Cost,2883.02,Annual Revenue Report 2022-2023 .csv
+2023,February,Indirect Expenses,Indirect Cost,3328.87,Annual Revenue Report 2022-2023 .csv
+2023,March,Indirect Expenses,Indirect Cost,2546.97,Annual Revenue Report 2022-2023 .csv
+2022,April,Depreciation,Depreciation,412.92,Annual Revenue Report 2022-2023 .csv
+2022,May,Depreciation,Depreciation,413.68,Annual Revenue Report 2022-2023 .csv
+2022,June,Depreciation,Depreciation,411.85,Annual Revenue Report 2022-2023 .csv
+2022,July,Depreciation,Depreciation,434.33,Annual Revenue Report 2022-2023 .csv
+2022,August,Depreciation,Depreciation,428.61,Annual Revenue Report 2022-2023 .csv
+2022,September,Depreciation,Depreciation,431.0,Annual Revenue Report 2022-2023 .csv
+2022,October,Depreciation,Depreciation,429.3,Annual Revenue Report 2022-2023 .csv
+2022,November,Depreciation,Depreciation,428.92,Annual Revenue Report 2022-2023 .csv
+2022,December,Depreciation,Depreciation,432.64,Annual Revenue Report 2022-2023 .csv
+2023,January,Depreciation,Depreciation,433.21,Annual Revenue Report 2022-2023 .csv
+2023,February,Depreciation,Depreciation,434.85,Annual Revenue Report 2022-2023 .csv
+2023,March,Depreciation,Depreciation,465.38,Annual Revenue Report 2022-2023 .csv
+2022,April,Depreciation,Depreciation and Amortization Expense,412.92,Annual Revenue Report 2022-2023 .csv
+2022,May,Depreciation,Depreciation and Amortization Expense,413.68,Annual Revenue Report 2022-2023 .csv
+2022,June,Depreciation,Depreciation and Amortization Expense,411.85,Annual Revenue Report 2022-2023 .csv
+2022,July,Depreciation,Depreciation and Amortization Expense,434.33,Annual Revenue Report 2022-2023 .csv
+2022,August,Depreciation,Depreciation and Amortization Expense,428.61,Annual Revenue Report 2022-2023 .csv
+2022,September,Depreciation,Depreciation and Amortization Expense,431.0,Annual Revenue Report 2022-2023 .csv
+2022,October,Depreciation,Depreciation and Amortization Expense,429.3,Annual Revenue Report 2022-2023 .csv
+2022,November,Depreciation,Depreciation and Amortization Expense,428.92,Annual Revenue Report 2022-2023 .csv
+2022,December,Depreciation,Depreciation and Amortization Expense,432.64,Annual Revenue Report 2022-2023 .csv
+2023,January,Depreciation,Depreciation and Amortization Expense,433.21,Annual Revenue Report 2022-2023 .csv
+2023,February,Depreciation,Depreciation and Amortization Expense,434.85,Annual Revenue Report 2022-2023 .csv
+2023,March,Depreciation,Depreciation and Amortization Expense,465.38,Annual Revenue Report 2022-2023 .csv
+2022,April,Profit,PBITDA,-979.76,Annual Revenue Report 2022-2023 .csv
+2022,May,Profit,PBITDA,-1827.63,Annual Revenue Report 2022-2023 .csv
+2022,June,Profit,PBITDA,-1260.63,Annual Revenue Report 2022-2023 .csv
+2022,July,Profit,PBITDA,-1461.67,Annual Revenue Report 2022-2023 .csv
+2022,August,Profit,PBITDA,-1559.04,Annual Revenue Report 2022-2023 .csv
+2022,September,Profit,PBITDA,-1556.62,Annual Revenue Report 2022-2023 .csv
+2022,October,Profit,PBITDA,-2703.5,Annual Revenue Report 2022-2023 .csv
+2022,November,Profit,PBITDA,-1450.29,Annual Revenue Report 2022-2023 .csv
+2022,December,Profit,PBITDA,-1964.19,Annual Revenue Report 2022-2023 .csv
+2023,January,Profit,PBITDA,1593.58,Annual Revenue Report 2022-2023 .csv
+2023,February,Profit,PBITDA,-722.8,Annual Revenue Report 2022-2023 .csv
+2023,March,Profit,PBITDA,1327.71,Annual Revenue Report 2022-2023 .csv
+2022,April,Profit,EBIT,-1392.68,Annual Revenue Report 2022-2023 .csv
+2022,May,Profit,EBIT,-2241.31,Annual Revenue Report 2022-2023 .csv
+2022,June,Profit,EBIT,-1672.48,Annual Revenue Report 2022-2023 .csv
+2022,July,Profit,EBIT,-1896.0,Annual Revenue Report 2022-2023 .csv
+2022,August,Profit,EBIT,-1987.64,Annual Revenue Report 2022-2023 .csv
+2022,September,Profit,EBIT,-1987.62,Annual Revenue Report 2022-2023 .csv
+2022,October,Profit,EBIT,-3132.79,Annual Revenue Report 2022-2023 .csv
+2022,November,Profit,EBIT,-1879.21,Annual Revenue Report 2022-2023 .csv
+2022,December,Profit,EBIT,-2396.83,Annual Revenue Report 2022-2023 .csv
+2023,January,Profit,EBIT,1160.37,Annual Revenue Report 2022-2023 .csv
+2023,February,Profit,EBIT,-1157.65,Annual Revenue Report 2022-2023 .csv
+2023,March,Profit,EBIT,862.33,Annual Revenue Report 2022-2023 .csv
+2022,April,Profit,Operating PBITDA,-979.76,Annual Revenue Report 2022-2023 .csv
+2022,May,Profit,Operating PBITDA,-1827.63,Annual Revenue Report 2022-2023 .csv
+2022,June,Profit,Operating PBITDA,-1260.63,Annual Revenue Report 2022-2023 .csv
+2022,July,Profit,Operating PBITDA,-1461.67,Annual Revenue Report 2022-2023 .csv
+2022,August,Profit,Operating PBITDA,-1559.04,Annual Revenue Report 2022-2023 .csv
+2022,September,Profit,Operating PBITDA,-1556.62,Annual Revenue Report 2022-2023 .csv
+2022,October,Profit,Operating PBITDA,-2703.5,Annual Revenue Report 2022-2023 .csv
+2022,November,Profit,Operating PBITDA,-1450.29,Annual Revenue Report 2022-2023 .csv
+2022,December,Profit,Operating PBITDA,-1964.19,Annual Revenue Report 2022-2023 .csv
+2023,January,Profit,Operating PBITDA,1593.58,Annual Revenue Report 2022-2023 .csv
+2023,February,Profit,Operating PBITDA,-722.8,Annual Revenue Report 2022-2023 .csv
+2023,March,Profit,Operating PBITDA,1327.71,Annual Revenue Report 2022-2023 .csv
+2022,April,Profit,PBIT,-1392.68,Annual Revenue Report 2022-2023 .csv
+2022,May,Profit,PBIT,-2241.31,Annual Revenue Report 2022-2023 .csv
+2022,June,Profit,PBIT,-1672.48,Annual Revenue Report 2022-2023 .csv
+2022,July,Profit,PBIT,-1896.0,Annual Revenue Report 2022-2023 .csv
+2022,August,Profit,PBIT,-1987.64,Annual Revenue Report 2022-2023 .csv
+2022,September,Profit,PBIT,-1987.62,Annual Revenue Report 2022-2023 .csv
+2022,October,Profit,PBIT,-3132.79,Annual Revenue Report 2022-2023 .csv
+2022,November,Profit,PBIT,-1879.21,Annual Revenue Report 2022-2023 .csv
+2022,December,Profit,PBIT,-2396.83,Annual Revenue Report 2022-2023 .csv
+2023,January,Profit,PBIT,1160.37,Annual Revenue Report 2022-2023 .csv
+2023,February,Profit,PBIT,-1157.65,Annual Revenue Report 2022-2023 .csv
+2023,March,Profit,PBIT,862.33,Annual Revenue Report 2022-2023 .csv
+2022,April,Profit,Operating PBIT,-1392.68,Annual Revenue Report 2022-2023 .csv
+2022,May,Profit,Operating PBIT,-2241.31,Annual Revenue Report 2022-2023 .csv
+2022,June,Profit,Operating PBIT,-1672.48,Annual Revenue Report 2022-2023 .csv
+2022,July,Profit,Operating PBIT,-1896.0,Annual Revenue Report 2022-2023 .csv
+2022,August,Profit,Operating PBIT,-1987.64,Annual Revenue Report 2022-2023 .csv
+2022,September,Profit,Operating PBIT,-1987.62,Annual Revenue Report 2022-2023 .csv
+2022,October,Profit,Operating PBIT,-3132.79,Annual Revenue Report 2022-2023 .csv
+2022,November,Profit,Operating PBIT,-1879.21,Annual Revenue Report 2022-2023 .csv
+2022,December,Profit,Operating PBIT,-2396.83,Annual Revenue Report 2022-2023 .csv
+2023,January,Profit,Operating PBIT,1160.37,Annual Revenue Report 2022-2023 .csv
+2023,February,Profit,Operating PBIT,-1157.65,Annual Revenue Report 2022-2023 .csv
+2023,March,Profit,Operating PBIT,862.33,Annual Revenue Report 2022-2023 .csv
+2022,April,Profit,PBT,-1392.68,Annual Revenue Report 2022-2023 .csv
+2022,May,Profit,PBT,-2241.31,Annual Revenue Report 2022-2023 .csv
+2022,June,Profit,PBT,-1672.48,Annual Revenue Report 2022-2023 .csv
+2022,July,Profit,PBT,-1896.0,Annual Revenue Report 2022-2023 .csv
+2022,August,Profit,PBT,-1987.64,Annual Revenue Report 2022-2023 .csv
+2022,September,Profit,PBT,-1987.62,Annual Revenue Report 2022-2023 .csv
+2022,October,Profit,PBT,-3132.79,Annual Revenue Report 2022-2023 .csv
+2022,November,Profit,PBT,-1879.21,Annual Revenue Report 2022-2023 .csv
+2022,December,Profit,PBT,-2396.83,Annual Revenue Report 2022-2023 .csv
+2023,January,Profit,PBT,1160.37,Annual Revenue Report 2022-2023 .csv
+2023,February,Profit,PBT,-1157.65,Annual Revenue Report 2022-2023 .csv
+2023,March,Profit,PBT,862.33,Annual Revenue Report 2022-2023 .csv
+2022,April,Profit,Profit After Tax,-1392.68,Annual Revenue Report 2022-2023 .csv
+2022,May,Profit,Profit After Tax,-2241.31,Annual Revenue Report 2022-2023 .csv
+2022,June,Profit,Profit After Tax,-1672.48,Annual Revenue Report 2022-2023 .csv
+2022,July,Profit,Profit After Tax,-1896.0,Annual Revenue Report 2022-2023 .csv
+2022,August,Profit,Profit After Tax,-1987.64,Annual Revenue Report 2022-2023 .csv
+2022,September,Profit,Profit After Tax,-1987.62,Annual Revenue Report 2022-2023 .csv
+2022,October,Profit,Profit After Tax,-3132.79,Annual Revenue Report 2022-2023 .csv
+2022,November,Profit,Profit After Tax,-1879.21,Annual Revenue Report 2022-2023 .csv
+2022,December,Profit,Profit After Tax,-2396.83,Annual Revenue Report 2022-2023 .csv
+2023,January,Profit,Profit After Tax,1160.37,Annual Revenue Report 2022-2023 .csv
+2023,February,Profit,Profit After Tax,-1157.65,Annual Revenue Report 2022-2023 .csv
+2023,March,Profit,Profit After Tax,862.33,Annual Revenue Report 2022-2023 .csv
+2022,April,Profit,Profit Available For Appropriation,-1392.68,Annual Revenue Report 2022-2023 .csv
+2022,May,Profit,Profit Available For Appropriation,-2241.31,Annual Revenue Report 2022-2023 .csv
+2022,June,Profit,Profit Available For Appropriation,-1672.48,Annual Revenue Report 2022-2023 .csv
+2022,July,Profit,Profit Available For Appropriation,-1896.0,Annual Revenue Report 2022-2023 .csv
+2022,August,Profit,Profit Available For Appropriation,-1987.64,Annual Revenue Report 2022-2023 .csv
+2022,September,Profit,Profit Available For Appropriation,-1987.62,Annual Revenue Report 2022-2023 .csv
+2022,October,Profit,Profit Available For Appropriation,-3132.79,Annual Revenue Report 2022-2023 .csv
+2022,November,Profit,Profit Available For Appropriation,-1879.21,Annual Revenue Report 2022-2023 .csv
+2022,December,Profit,Profit Available For Appropriation,-2396.83,Annual Revenue Report 2022-2023 .csv
+2023,January,Profit,Profit Available For Appropriation,1160.37,Annual Revenue Report 2022-2023 .csv
+2023,February,Profit,Profit Available For Appropriation,-1157.65,Annual Revenue Report 2022-2023 .csv
+2023,March,Profit,Profit Available For Appropriation,862.33,Annual Revenue Report 2022-2023 .csv
+2022,April,Profit,PAT carried to Balance Sheet,-1392.68,Annual Revenue Report 2022-2023 .csv
+2022,May,Profit,PAT carried to Balance Sheet,-2241.31,Annual Revenue Report 2022-2023 .csv
+2022,June,Profit,PAT carried to Balance Sheet,-1672.48,Annual Revenue Report 2022-2023 .csv
+2022,July,Profit,PAT carried to Balance Sheet,-1896.0,Annual Revenue Report 2022-2023 .csv
+2022,August,Profit,PAT carried to Balance Sheet,-1987.64,Annual Revenue Report 2022-2023 .csv
+2022,September,Profit,PAT carried to Balance Sheet,-1987.62,Annual Revenue Report 2022-2023 .csv
+2022,October,Profit,PAT carried to Balance Sheet,-3132.79,Annual Revenue Report 2022-2023 .csv
+2022,November,Profit,PAT carried to Balance Sheet,-1879.21,Annual Revenue Report 2022-2023 .csv
+2022,December,Profit,PAT carried to Balance Sheet,-2396.83,Annual Revenue Report 2022-2023 .csv
+2023,January,Profit,PAT carried to Balance Sheet,1160.37,Annual Revenue Report 2022-2023 .csv
+2023,February,Profit,PAT carried to Balance Sheet,-1157.65,Annual Revenue Report 2022-2023 .csv
+2023,March,Profit,PAT carried to Balance Sheet,862.33,Annual Revenue Report 2022-2023 .csv
+2022,April,Profit,Cash Profit Before Tax,-979.76,Annual Revenue Report 2022-2023 .csv
+2022,May,Profit,Cash Profit Before Tax,-1827.63,Annual Revenue Report 2022-2023 .csv
+2022,June,Profit,Cash Profit Before Tax,-1260.63,Annual Revenue Report 2022-2023 .csv
+2022,July,Profit,Cash Profit Before Tax,-1461.67,Annual Revenue Report 2022-2023 .csv
+2022,August,Profit,Cash Profit Before Tax,-1559.04,Annual Revenue Report 2022-2023 .csv
+2022,September,Profit,Cash Profit Before Tax,-1556.62,Annual Revenue Report 2022-2023 .csv
+2022,October,Profit,Cash Profit Before Tax,-2703.5,Annual Revenue Report 2022-2023 .csv
+2022,November,Profit,Cash Profit Before Tax,-1450.29,Annual Revenue Report 2022-2023 .csv
+2022,December,Profit,Cash Profit Before Tax,-1964.19,Annual Revenue Report 2022-2023 .csv
+2023,January,Profit,Cash Profit Before Tax,1593.58,Annual Revenue Report 2022-2023 .csv
+2023,February,Profit,Cash Profit Before Tax,-722.8,Annual Revenue Report 2022-2023 .csv
+2023,March,Profit,Cash Profit Before Tax,1327.71,Annual Revenue Report 2022-2023 .csv
+2022,April,Profit,Cash Profit After Tax,-979.76,Annual Revenue Report 2022-2023 .csv
+2022,May,Profit,Cash Profit After Tax,-1827.63,Annual Revenue Report 2022-2023 .csv
+2022,June,Profit,Cash Profit After Tax,-1260.63,Annual Revenue Report 2022-2023 .csv
+2022,July,Profit,Cash Profit After Tax,-1461.67,Annual Revenue Report 2022-2023 .csv
+2022,August,Profit,Cash Profit After Tax,-1559.04,Annual Revenue Report 2022-2023 .csv
+2022,September,Profit,Cash Profit After Tax,-1556.62,Annual Revenue Report 2022-2023 .csv
+2022,October,Profit,Cash Profit After Tax,-2703.5,Annual Revenue Report 2022-2023 .csv
+2022,November,Profit,Cash Profit After Tax,-1450.29,Annual Revenue Report 2022-2023 .csv
+2022,December,Profit,Cash Profit After Tax,-1964.19,Annual Revenue Report 2022-2023 .csv
+2023,January,Profit,Cash Profit After Tax,1593.58,Annual Revenue Report 2022-2023 .csv
+2023,February,Profit,Cash Profit After Tax,-722.8,Annual Revenue Report 2022-2023 .csv
+2023,March,Profit,Cash Profit After Tax,1327.71,Annual Revenue Report 2022-2023 .csv
+2022,April,Profit,Gross Profit,2051.75,Annual Revenue Report 2022-2023 .csv
+2022,May,Profit,Gross Profit,1179.92,Annual Revenue Report 2022-2023 .csv
+2022,June,Profit,Gross Profit,1533.98,Annual Revenue Report 2022-2023 .csv
+2022,July,Profit,Gross Profit,1414.45,Annual Revenue Report 2022-2023 .csv
+2022,August,Profit,Gross Profit,524.2,Annual Revenue Report 2022-2023 .csv
+2022,September,Profit,Gross Profit,1236.25,Annual Revenue Report 2022-2023 .csv
+2022,October,Profit,Gross Profit,186.59,Annual Revenue Report 2022-2023 .csv
+2022,November,Profit,Gross Profit,1399.36,Annual Revenue Report 2022-2023 .csv
+2022,December,Profit,Gross Profit,278.61,Annual Revenue Report 2022-2023 .csv
+2023,January,Profit,Gross Profit,1471.31,Annual Revenue Report 2022-2023 .csv
+2023,February,Profit,Gross Profit,2550.46,Annual Revenue Report 2022-2023 .csv
+2023,March,Profit,Gross Profit,3542.89,Annual Revenue Report 2022-2023 .csv
+2024,April,Sources of Fund,Sources of Fund,-148680.16,Annual Balance Sheet Report 2024-2025.csv
+2024,May,Sources of Fund,Sources of Fund,-149565.26,Annual Balance Sheet Report 2024-2025.csv
+2024,June,Sources of Fund,Sources of Fund,-151490.67,Annual Balance Sheet Report 2024-2025.csv
+2024,July,Sources of Fund,Sources of Fund,-155354.88,Annual Balance Sheet Report 2024-2025.csv
+2024,August,Sources of Fund,Sources of Fund,-159743.85,Annual Balance Sheet Report 2024-2025.csv
+2024,September,Sources of Fund,Sources of Fund,-162293.45,Annual Balance Sheet Report 2024-2025.csv
+2024,October,Sources of Fund,Sources of Fund,-163847.0,Annual Balance Sheet Report 2024-2025.csv
+2024,November,Sources of Fund,Sources of Fund,-166089.08,Annual Balance Sheet Report 2024-2025.csv
+2024,December,Sources of Fund,Sources of Fund,-168127.53,Annual Balance Sheet Report 2024-2025.csv
+2025,January,Sources of Fund,Sources of Fund,-168358.5,Annual Balance Sheet Report 2024-2025.csv
+2025,February,Sources of Fund,Sources of Fund,-168358.5,Annual Balance Sheet Report 2024-2025.csv
+2025,March,Sources of Fund,Sources of Fund,0.0,Annual Balance Sheet Report 2024-2025.csv
+2024,April,Application of Fund,Application of Fund,1497.24,Annual Balance Sheet Report 2024-2025.csv
+2024,May,Application of Fund,Application of Fund,1497.24,Annual Balance Sheet Report 2024-2025.csv
+2024,June,Application of Fund,Application of Fund,1497.24,Annual Balance Sheet Report 2024-2025.csv
+2024,July,Application of Fund,Application of Fund,1497.24,Annual Balance Sheet Report 2024-2025.csv
+2024,August,Application of Fund,Application of Fund,1497.24,Annual Balance Sheet Report 2024-2025.csv
+2024,September,Application of Fund,Application of Fund,1497.24,Annual Balance Sheet Report 2024-2025.csv
+2024,October,Application of Fund,Application of Fund,1497.24,Annual Balance Sheet Report 2024-2025.csv
+2024,November,Application of Fund,Application of Fund,1497.24,Annual Balance Sheet Report 2024-2025.csv
+2024,December,Application of Fund,Application of Fund,1497.24,Annual Balance Sheet Report 2024-2025.csv
+2025,January,Application of Fund,Application of Fund,1497.24,Annual Balance Sheet Report 2024-2025.csv
+2025,February,Application of Fund,Application of Fund,1497.24,Annual Balance Sheet Report 2024-2025.csv
+2025,March,Application of Fund,Application of Fund,0.0,Annual Balance Sheet Report 2024-2025.csv
+2024,April,Free Cash,FX Impact on fixed Assets,-227.72,Annual Balance Sheet Report 2024-2025.csv
+2024,May,Free Cash,FX Impact on fixed Assets,-152.09,Annual Balance Sheet Report 2024-2025.csv
+2024,June,Free Cash,FX Impact on fixed Assets,-187.02,Annual Balance Sheet Report 2024-2025.csv
+2024,July,Free Cash,FX Impact on fixed Assets,-184.83,Annual Balance Sheet Report 2024-2025.csv
+2024,August,Free Cash,FX Impact on fixed Assets,-1.22,Annual Balance Sheet Report 2024-2025.csv
+2024,September,Free Cash,FX Impact on fixed Assets,810.16,Annual Balance Sheet Report 2024-2025.csv
+2024,October,Free Cash,FX Impact on fixed Assets,78.93,Annual Balance Sheet Report 2024-2025.csv
+2024,November,Free Cash,FX Impact on fixed Assets,-174.54,Annual Balance Sheet Report 2024-2025.csv
+2024,December,Free Cash,FX Impact on fixed Assets,78.14,Annual Balance Sheet Report 2024-2025.csv
+2025,January,Free Cash,FX Impact on fixed Assets,-242.29,Annual Balance Sheet Report 2024-2025.csv
+2025,February,Free Cash,FX Impact on fixed Assets,0.0,Annual Balance Sheet Report 2024-2025.csv
+2025,March,Free Cash,FX Impact on fixed Assets,0.0,Annual Balance Sheet Report 2024-2025.csv
+2024,April,Free Cash,Capital employed w/o Factoring & SCF,1497.24,Annual Balance Sheet Report 2024-2025.csv
+2024,May,Free Cash,Capital employed w/o Factoring & SCF,1497.24,Annual Balance Sheet Report 2024-2025.csv
+2024,June,Free Cash,Capital employed w/o Factoring & SCF,1497.24,Annual Balance Sheet Report 2024-2025.csv
+2024,July,Free Cash,Capital employed w/o Factoring & SCF,1497.24,Annual Balance Sheet Report 2024-2025.csv
+2024,August,Free Cash,Capital employed w/o Factoring & SCF,1497.24,Annual Balance Sheet Report 2024-2025.csv
+2024,September,Free Cash,Capital employed w/o Factoring & SCF,1497.24,Annual Balance Sheet Report 2024-2025.csv
+2024,October,Free Cash,Capital employed w/o Factoring & SCF,1497.24,Annual Balance Sheet Report 2024-2025.csv
+2024,November,Free Cash,Capital employed w/o Factoring & SCF,1497.24,Annual Balance Sheet Report 2024-2025.csv
+2024,December,Free Cash,Capital employed w/o Factoring & SCF,1497.24,Annual Balance Sheet Report 2024-2025.csv
+2025,January,Free Cash,Capital employed w/o Factoring & SCF,1497.24,Annual Balance Sheet Report 2024-2025.csv
+2025,February,Free Cash,Capital employed w/o Factoring & SCF,1497.24,Annual Balance Sheet Report 2024-2025.csv
+2025,March,Free Cash,Capital employed w/o Factoring & SCF,0.0,Annual Balance Sheet Report 2024-2025.csv
+2024,April,Free Cash,Capital Employed,33706.78,Annual Balance Sheet Report 2024-2025.csv
+2024,May,Free Cash,Capital Employed,34783.81,Annual Balance Sheet Report 2024-2025.csv
+2024,June,Free Cash,Capital Employed,34712.28,Annual Balance Sheet Report 2024-2025.csv
+2024,July,Free Cash,Capital Employed,35706.88,Annual Balance Sheet Report 2024-2025.csv
+2024,August,Free Cash,Capital Employed,35420.98,Annual Balance Sheet Report 2024-2025.csv
+2024,September,Free Cash,Capital Employed,36274.67,Annual Balance Sheet Report 2024-2025.csv
+2024,October,Free Cash,Capital Employed,36724.15,Annual Balance Sheet Report 2024-2025.csv
+2024,November,Free Cash,Capital Employed,36672.09,Annual Balance Sheet Report 2024-2025.csv
+2024,December,Free Cash,Capital Employed,37739.47,Annual Balance Sheet Report 2024-2025.csv
+2025,January,Free Cash,Capital Employed,36794.99,Annual Balance Sheet Report 2024-2025.csv
+2025,February,Free Cash,Capital Employed,35103.5,Annual Balance Sheet Report 2024-2025.csv
+2025,March,Free Cash,Capital Employed,0.0,Annual Balance Sheet Report 2024-2025.csv
+2024,April,Free Cash,Capex -Calculated (MTM),-169.63,Annual Balance Sheet Report 2024-2025.csv
+2024,May,Free Cash,Capex -Calculated (MTM),8.34,Annual Balance Sheet Report 2024-2025.csv
+2024,June,Free Cash,Capex -Calculated (MTM),-84.55,Annual Balance Sheet Report 2024-2025.csv
+2024,July,Free Cash,Capex -Calculated (MTM),-71.84,Annual Balance Sheet Report 2024-2025.csv
+2024,August,Free Cash,Capex -Calculated (MTM),298.57,Annual Balance Sheet Report 2024-2025.csv
+2024,September,Free Cash,Capex -Calculated (MTM),1917.47,Annual Balance Sheet Report 2024-2025.csv
+2024,October,Free Cash,Capex -Calculated (MTM),450.47,Annual Balance Sheet Report 2024-2025.csv
+2024,November,Free Cash,Capex -Calculated (MTM),-58.92,Annual Balance Sheet Report 2024-2025.csv
+2024,December,Free Cash,Capex -Calculated (MTM),435.81,Annual Balance Sheet Report 2024-2025.csv
+2025,January,Free Cash,Capex -Calculated (MTM),-195.21,Annual Balance Sheet Report 2024-2025.csv
+2025,February,Free Cash,Capex -Calculated (MTM),-144.58,Annual Balance Sheet Report 2024-2025.csv
+2025,March,Free Cash,Capex -Calculated (MTM),0.0,Annual Balance Sheet Report 2024-2025.csv
+2024,April,Free Cash,Capex -Calculated (YTM),-169.63,Annual Balance Sheet Report 2024-2025.csv
+2024,May,Free Cash,Capex -Calculated (YTM),-161.29,Annual Balance Sheet Report 2024-2025.csv
+2024,June,Free Cash,Capex -Calculated (YTM),-245.84,Annual Balance Sheet Report 2024-2025.csv
+2024,July,Free Cash,Capex -Calculated (YTM),-317.68,Annual Balance Sheet Report 2024-2025.csv
+2024,August,Free Cash,Capex -Calculated (YTM),-19.11,Annual Balance Sheet Report 2024-2025.csv
+2024,September,Free Cash,Capex -Calculated (YTM),1898.36,Annual Balance Sheet Report 2024-2025.csv
+2024,October,Free Cash,Capex -Calculated (YTM),2348.84,Annual Balance Sheet Report 2024-2025.csv
+2024,November,Free Cash,Capex -Calculated (YTM),2289.92,Annual Balance Sheet Report 2024-2025.csv
+2024,December,Free Cash,Capex -Calculated (YTM),2725.73,Annual Balance Sheet Report 2024-2025.csv
+2025,January,Free Cash,Capex -Calculated (YTM),2530.52,Annual Balance Sheet Report 2024-2025.csv
+2025,February,Free Cash,Capex -Calculated (YTM),2385.93,Annual Balance Sheet Report 2024-2025.csv
+2025,March,Free Cash,Capex -Calculated (YTM),0.0,Annual Balance Sheet Report 2024-2025.csv
+2024,April,Free Cash,Capex(MTM),69.76,Annual Balance Sheet Report 2024-2025.csv
+2024,May,Free Cash,Capex(MTM),160.44,Annual Balance Sheet Report 2024-2025.csv
+2024,June,Free Cash,Capex(MTM),107.82,Annual Balance Sheet Report 2024-2025.csv
+2024,July,Free Cash,Capex(MTM),112.99,Annual Balance Sheet Report 2024-2025.csv
+2024,August,Free Cash,Capex(MTM),299.79,Annual Balance Sheet Report 2024-2025.csv
+2024,September,Free Cash,Capex(MTM),1107.31,Annual Balance Sheet Report 2024-2025.csv
+2024,October,Free Cash,Capex(MTM),380.29,Annual Balance Sheet Report 2024-2025.csv
+2024,November,Free Cash,Capex(MTM),115.62,Annual Balance Sheet Report 2024-2025.csv
+2024,December,Free Cash,Capex(MTM),363.03,Annual Balance Sheet Report 2024-2025.csv
+2025,January,Free Cash,Capex(MTM),47.08,Annual Balance Sheet Report 2024-2025.csv
+2025,February,Free Cash,Capex(MTM),149.76,Annual Balance Sheet Report 2024-2025.csv
+2025,March,Free Cash,Capex(MTM),0.0,Annual Balance Sheet Report 2024-2025.csv
+2024,April,Free Cash,Capex (YTM),69.76,Annual Balance Sheet Report 2024-2025.csv
+2024,May,Free Cash,Capex (YTM),230.2,Annual Balance Sheet Report 2024-2025.csv
+2024,June,Free Cash,Capex (YTM),338.02,Annual Balance Sheet Report 2024-2025.csv
+2024,July,Free Cash,Capex (YTM),451.02,Annual Balance Sheet Report 2024-2025.csv
+2024,August,Free Cash,Capex (YTM),750.8,Annual Balance Sheet Report 2024-2025.csv
+2024,September,Free Cash,Capex (YTM),1858.12,Annual Balance Sheet Report 2024-2025.csv
+2024,October,Free Cash,Capex (YTM),2238.41,Annual Balance Sheet Report 2024-2025.csv
+2024,November,Free Cash,Capex (YTM),2354.03,Annual Balance Sheet Report 2024-2025.csv
+2024,December,Free Cash,Capex (YTM),2717.06,Annual Balance Sheet Report 2024-2025.csv
+2025,January,Free Cash,Capex (YTM),2764.14,Annual Balance Sheet Report 2024-2025.csv
+2025,February,Free Cash,Capex (YTM),2913.9,Annual Balance Sheet Report 2024-2025.csv
+2025,March,Free Cash,Capex (YTM),0.0,Annual Balance Sheet Report 2024-2025.csv
+2024,April,Free Cash,Working Capital Changes,-478.84,Annual Balance Sheet Report 2024-2025.csv
+2024,May,Free Cash,Working Capital Changes,-1707.96,Annual Balance Sheet Report 2024-2025.csv
+2024,June,Free Cash,Working Capital Changes,-1828.81,Annual Balance Sheet Report 2024-2025.csv
+2024,July,Free Cash,Working Capital Changes,-3008.24,Annual Balance Sheet Report 2024-2025.csv
+2024,August,Free Cash,Working Capital Changes,-2723.56,Annual Balance Sheet Report 2024-2025.csv
+2024,September,Free Cash,Working Capital Changes,-2767.09,Annual Balance Sheet Report 2024-2025.csv
+2024,October,Free Cash,Working Capital Changes,-3143.0,Annual Balance Sheet Report 2024-2025.csv
+2024,November,Free Cash,Working Capital Changes,-3265.48,Annual Balance Sheet Report 2024-2025.csv
+2024,December,Free Cash,Working Capital Changes,-4260.08,Annual Balance Sheet Report 2024-2025.csv
+2025,January,Free Cash,Working Capital Changes,-3557.89,Annual Balance Sheet Report 2024-2025.csv
+2025,February,Free Cash,Working Capital Changes,-2010.98,Annual Balance Sheet Report 2024-2025.csv
+2025,March,Free Cash,Working Capital Changes,0.0,Annual Balance Sheet Report 2024-2025.csv
+2024,April,Free Cash,(Increase)/Decrease in Inventory,-478.84,Annual Balance Sheet Report 2024-2025.csv
+2024,May,Free Cash,(Increase)/Decrease in Inventory,-1707.96,Annual Balance Sheet Report 2024-2025.csv
+2024,June,Free Cash,(Increase)/Decrease in Inventory,-1828.81,Annual Balance Sheet Report 2024-2025.csv
+2024,July,Free Cash,(Increase)/Decrease in Inventory,-3008.24,Annual Balance Sheet Report 2024-2025.csv
+2024,August,Free Cash,(Increase)/Decrease in Inventory,-2723.56,Annual Balance Sheet Report 2024-2025.csv
+2024,September,Free Cash,(Increase)/Decrease in Inventory,-2767.09,Annual Balance Sheet Report 2024-2025.csv
+2024,October,Free Cash,(Increase)/Decrease in Inventory,-3143.0,Annual Balance Sheet Report 2024-2025.csv
+2024,November,Free Cash,(Increase)/Decrease in Inventory,-3265.48,Annual Balance Sheet Report 2024-2025.csv
+2024,December,Free Cash,(Increase)/Decrease in Inventory,-4260.08,Annual Balance Sheet Report 2024-2025.csv
+2025,January,Free Cash,(Increase)/Decrease in Inventory,-3557.89,Annual Balance Sheet Report 2024-2025.csv
+2025,February,Free Cash,(Increase)/Decrease in Inventory,-2010.98,Annual Balance Sheet Report 2024-2025.csv
+2025,March,Free Cash,(Increase)/Decrease in Inventory,0.0,Annual Balance Sheet Report 2024-2025.csv
+2024,April,Free Cash,FCF w/o Factoring & SCF,-1003.4,Annual Balance Sheet Report 2024-2025.csv
+2024,May,Free Cash,FCF w/o Factoring & SCF,-2813.43,Annual Balance Sheet Report 2024-2025.csv
+2024,June,Free Cash,FCF w/o Factoring & SCF,-4480.3,Annual Balance Sheet Report 2024-2025.csv
+2024,July,Free Cash,FCF w/o Factoring & SCF,-9154.28,Annual Balance Sheet Report 2024-2025.csv
+2024,August,Free Cash,FCF w/o Factoring & SCF,-13256.14,Annual Balance Sheet Report 2024-2025.csv
+2024,September,Free Cash,FCF w/o Factoring & SCF,-17469.59,Annual Balance Sheet Report 2024-2025.csv
+2024,October,Free Cash,FCF w/o Factoring & SCF,-19551.53,Annual Balance Sheet Report 2024-2025.csv
+2024,November,Free Cash,FCF w/o Factoring & SCF,-21567.03,Annual Balance Sheet Report 2024-2025.csv
+2024,December,Free Cash,FCF w/o Factoring & SCF,-24750.99,Annual Balance Sheet Report 2024-2025.csv
+2025,January,Free Cash,FCF w/o Factoring & SCF,-23795.19,Annual Balance Sheet Report 2024-2025.csv
+2025,February,Free Cash,FCF w/o Factoring & SCF,-22103.69,Annual Balance Sheet Report 2024-2025.csv
+2025,March,Free Cash,FCF w/o Factoring & SCF,0.0,Annual Balance Sheet Report 2024-2025.csv
+2024,April,Free Cash,FCF w/o Factoring & SCF (without actualized Capex),-1242.8,Annual Balance Sheet Report 2024-2025.csv
+2024,May,Free Cash,FCF w/o Factoring & SCF (without actualized Capex),-3204.93,Annual Balance Sheet Report 2024-2025.csv
+2024,June,Free Cash,FCF w/o Factoring & SCF (without actualized Capex),-5064.16,Annual Balance Sheet Report 2024-2025.csv
+2024,July,Free Cash,FCF w/o Factoring & SCF (without actualized Capex),-9922.98,Annual Balance Sheet Report 2024-2025.csv
+2024,August,Free Cash,FCF w/o Factoring & SCF (without actualized Capex),-14026.06,Annual Balance Sheet Report 2024-2025.csv
+2024,September,Free Cash,FCF w/o Factoring & SCF (without actualized Capex),-17429.34,Annual Balance Sheet Report 2024-2025.csv
+2024,October,Free Cash,FCF w/o Factoring & SCF (without actualized Capex),-19441.11,Annual Balance Sheet Report 2024-2025.csv
+2024,November,Free Cash,FCF w/o Factoring & SCF (without actualized Capex),-21631.14,Annual Balance Sheet Report 2024-2025.csv
+2024,December,Free Cash,FCF w/o Factoring & SCF (without actualized Capex),-24742.32,Annual Balance Sheet Report 2024-2025.csv
+2025,January,Free Cash,FCF w/o Factoring & SCF (without actualized Capex),-24028.81,Annual Balance Sheet Report 2024-2025.csv
+2025,February,Free Cash,FCF w/o Factoring & SCF (without actualized Capex),-22631.66,Annual Balance Sheet Report 2024-2025.csv
+2025,March,Free Cash,FCF w/o Factoring & SCF (without actualized Capex),0.0,Annual Balance Sheet Report 2024-2025.csv
+2024,April,Free Cash,Free Cash Flow after tax,-1003.4,Annual Balance Sheet Report 2024-2025.csv
+2024,May,Free Cash,Free Cash Flow after tax,-2813.43,Annual Balance Sheet Report 2024-2025.csv
+2024,June,Free Cash,Free Cash Flow after tax,-4480.3,Annual Balance Sheet Report 2024-2025.csv
+2024,July,Free Cash,Free Cash Flow after tax,-9154.28,Annual Balance Sheet Report 2024-2025.csv
+2024,August,Free Cash,Free Cash Flow after tax,-13256.14,Annual Balance Sheet Report 2024-2025.csv
+2024,September,Free Cash,Free Cash Flow after tax,-17469.59,Annual Balance Sheet Report 2024-2025.csv
+2024,October,Free Cash,Free Cash Flow after tax,-19551.53,Annual Balance Sheet Report 2024-2025.csv
+2024,November,Free Cash,Free Cash Flow after tax,-21567.03,Annual Balance Sheet Report 2024-2025.csv
+2024,December,Free Cash,Free Cash Flow after tax,-24750.99,Annual Balance Sheet Report 2024-2025.csv
+2025,January,Free Cash,Free Cash Flow after tax,-23795.19,Annual Balance Sheet Report 2024-2025.csv
+2025,February,Free Cash,Free Cash Flow after tax,-22103.69,Annual Balance Sheet Report 2024-2025.csv
+2025,March,Free Cash,Free Cash Flow after tax,0.0,Annual Balance Sheet Report 2024-2025.csv
+2024,April,Free Cash,"FCF w/o Interest, Factoring & SCF",-1003.4,Annual Balance Sheet Report 2024-2025.csv
+2024,May,Free Cash,"FCF w/o Interest, Factoring & SCF",-2813.43,Annual Balance Sheet Report 2024-2025.csv
+2024,June,Free Cash,"FCF w/o Interest, Factoring & SCF",-4480.3,Annual Balance Sheet Report 2024-2025.csv
+2024,July,Free Cash,"FCF w/o Interest, Factoring & SCF",-9154.28,Annual Balance Sheet Report 2024-2025.csv
+2024,August,Free Cash,"FCF w/o Interest, Factoring & SCF",-13256.14,Annual Balance Sheet Report 2024-2025.csv
+2024,September,Free Cash,"FCF w/o Interest, Factoring & SCF",-17469.59,Annual Balance Sheet Report 2024-2025.csv
+2024,October,Free Cash,"FCF w/o Interest, Factoring & SCF",-19551.53,Annual Balance Sheet Report 2024-2025.csv
+2024,November,Free Cash,"FCF w/o Interest, Factoring & SCF",-21567.03,Annual Balance Sheet Report 2024-2025.csv
+2024,December,Free Cash,"FCF w/o Interest, Factoring & SCF",-24750.99,Annual Balance Sheet Report 2024-2025.csv
+2025,January,Free Cash,"FCF w/o Interest, Factoring & SCF",-23795.19,Annual Balance Sheet Report 2024-2025.csv
+2025,February,Free Cash,"FCF w/o Interest, Factoring & SCF",-22103.69,Annual Balance Sheet Report 2024-2025.csv
+2025,March,Free Cash,"FCF w/o Interest, Factoring & SCF",0.0,Annual Balance Sheet Report 2024-2025.csv
+2024,April,Free Cash,Free Cash Flow before WC (w.o Interest),-524.57,Annual Balance Sheet Report 2024-2025.csv
+2024,May,Free Cash,Free Cash Flow before WC (w.o Interest),-1105.47,Annual Balance Sheet Report 2024-2025.csv
+2024,June,Free Cash,Free Cash Flow before WC (w.o Interest),-2651.49,Annual Balance Sheet Report 2024-2025.csv
+2024,July,Free Cash,Free Cash Flow before WC (w.o Interest),-6146.04,Annual Balance Sheet Report 2024-2025.csv
+2024,August,Free Cash,Free Cash Flow before WC (w.o Interest),-10532.57,Annual Balance Sheet Report 2024-2025.csv
+2024,September,Free Cash,Free Cash Flow before WC (w.o Interest),-14702.5,Annual Balance Sheet Report 2024-2025.csv
+2024,October,Free Cash,Free Cash Flow before WC (w.o Interest),-16408.53,Annual Balance Sheet Report 2024-2025.csv
+2024,November,Free Cash,Free Cash Flow before WC (w.o Interest),-18301.54,Annual Balance Sheet Report 2024-2025.csv
+2024,December,Free Cash,Free Cash Flow before WC (w.o Interest),-20490.91,Annual Balance Sheet Report 2024-2025.csv
+2025,January,Free Cash,Free Cash Flow before WC (w.o Interest),-20237.3,Annual Balance Sheet Report 2024-2025.csv
+2025,February,Free Cash,Free Cash Flow before WC (w.o Interest),-20092.72,Annual Balance Sheet Report 2024-2025.csv
+2025,March,Free Cash,Free Cash Flow before WC (w.o Interest),0.0,Annual Balance Sheet Report 2024-2025.csv
+2024,April,Other Financials,Equity and Liabilities (Total Sources Of Funds),-148680.16,Annual Balance Sheet Report 2024-2025.csv
+2024,May,Other Financials,Equity and Liabilities (Total Sources Of Funds),-149565.26,Annual Balance Sheet Report 2024-2025.csv
+2024,June,Other Financials,Equity and Liabilities (Total Sources Of Funds),-151490.67,Annual Balance Sheet Report 2024-2025.csv
+2024,July,Other Financials,Equity and Liabilities (Total Sources Of Funds),-155354.88,Annual Balance Sheet Report 2024-2025.csv
+2024,August,Other Financials,Equity and Liabilities (Total Sources Of Funds),-159743.85,Annual Balance Sheet Report 2024-2025.csv
+2024,September,Other Financials,Equity and Liabilities (Total Sources Of Funds),-162293.45,Annual Balance Sheet Report 2024-2025.csv
+2024,October,Other Financials,Equity and Liabilities (Total Sources Of Funds),-163847.0,Annual Balance Sheet Report 2024-2025.csv
+2024,November,Other Financials,Equity and Liabilities (Total Sources Of Funds),-166089.08,Annual Balance Sheet Report 2024-2025.csv
+2024,December,Other Financials,Equity and Liabilities (Total Sources Of Funds),-168127.53,Annual Balance Sheet Report 2024-2025.csv
+2025,January,Other Financials,Equity and Liabilities (Total Sources Of Funds),-168358.5,Annual Balance Sheet Report 2024-2025.csv
+2025,February,Other Financials,Equity and Liabilities (Total Sources Of Funds),-168358.5,Annual Balance Sheet Report 2024-2025.csv
+2025,March,Other Financials,Equity and Liabilities (Total Sources Of Funds),0.0,Annual Balance Sheet Report 2024-2025.csv
+2024,April,Other Financials,Profit For Current Year (YTM),-987.16,Annual Balance Sheet Report 2024-2025.csv
+2024,May,Other Financials,Profit For Current Year (YTM),-1872.25,Annual Balance Sheet Report 2024-2025.csv
+2024,June,Other Financials,Profit For Current Year (YTM),-3797.66,Annual Balance Sheet Report 2024-2025.csv
+2024,July,Other Financials,Profit For Current Year (YTM),-7661.88,Annual Balance Sheet Report 2024-2025.csv
+2024,August,Other Financials,Profit For Current Year (YTM),-12050.85,Annual Balance Sheet Report 2024-2025.csv
+2024,September,Other Financials,Profit For Current Year (YTM),-14600.45,Annual Balance Sheet Report 2024-2025.csv
+2024,October,Other Financials,Profit For Current Year (YTM),-16153.99,Annual Balance Sheet Report 2024-2025.csv
+2024,November,Other Financials,Profit For Current Year (YTM),-18396.08,Annual Balance Sheet Report 2024-2025.csv
+2024,December,Other Financials,Profit For Current Year (YTM),-20434.52,Annual Balance Sheet Report 2024-2025.csv
+2025,January,Other Financials,Profit For Current Year (YTM),-20665.5,Annual Balance Sheet Report 2024-2025.csv
+2025,February,Other Financials,Profit For Current Year (YTM),-20665.5,Annual Balance Sheet Report 2024-2025.csv
+2025,March,Other Financials,Profit For Current Year (YTM),0.0,Annual Balance Sheet Report 2024-2025.csv
+2024,April,Other Financials,Profit and Loss Opening,-147693.0,Annual Balance Sheet Report 2024-2025.csv
+2024,May,Other Financials,Profit and Loss Opening,-147693.0,Annual Balance Sheet Report 2024-2025.csv
+2024,June,Other Financials,Profit and Loss Opening,-147693.0,Annual Balance Sheet Report 2024-2025.csv
+2024,July,Other Financials,Profit and Loss Opening,-147693.0,Annual Balance Sheet Report 2024-2025.csv
+2024,August,Other Financials,Profit and Loss Opening,-147693.0,Annual Balance Sheet Report 2024-2025.csv
+2024,September,Other Financials,Profit and Loss Opening,-147693.0,Annual Balance Sheet Report 2024-2025.csv
+2024,October,Other Financials,Profit and Loss Opening,-147693.0,Annual Balance Sheet Report 2024-2025.csv
+2024,November,Other Financials,Profit and Loss Opening,-147693.0,Annual Balance Sheet Report 2024-2025.csv
+2024,December,Other Financials,Profit and Loss Opening,-147693.0,Annual Balance Sheet Report 2024-2025.csv
+2025,January,Other Financials,Profit and Loss Opening,-147693.0,Annual Balance Sheet Report 2024-2025.csv
+2025,February,Other Financials,Profit and Loss Opening,-147693.0,Annual Balance Sheet Report 2024-2025.csv
+2025,March,Other Financials,Profit and Loss Opening,0.0,Annual Balance Sheet Report 2024-2025.csv
+2024,April,Other Financials,Total Assets (Application Of Funds),1497.24,Annual Balance Sheet Report 2024-2025.csv
+2024,May,Other Financials,Total Assets (Application Of Funds),1497.24,Annual Balance Sheet Report 2024-2025.csv
+2024,June,Other Financials,Total Assets (Application Of Funds),1497.24,Annual Balance Sheet Report 2024-2025.csv
+2024,July,Other Financials,Total Assets (Application Of Funds),1497.24,Annual Balance Sheet Report 2024-2025.csv
+2024,August,Other Financials,Total Assets (Application Of Funds),1497.24,Annual Balance Sheet Report 2024-2025.csv
+2024,September,Other Financials,Total Assets (Application Of Funds),1497.24,Annual Balance Sheet Report 2024-2025.csv
+2024,October,Other Financials,Total Assets (Application Of Funds),1497.24,Annual Balance Sheet Report 2024-2025.csv
+2024,November,Other Financials,Total Assets (Application Of Funds),1497.24,Annual Balance Sheet Report 2024-2025.csv
+2024,December,Other Financials,Total Assets (Application Of Funds),1497.24,Annual Balance Sheet Report 2024-2025.csv
+2025,January,Other Financials,Total Assets (Application Of Funds),1497.24,Annual Balance Sheet Report 2024-2025.csv
+2025,February,Other Financials,Total Assets (Application Of Funds),1497.24,Annual Balance Sheet Report 2024-2025.csv
+2025,March,Other Financials,Total Assets (Application Of Funds),0.0,Annual Balance Sheet Report 2024-2025.csv
+2024,April,Other Financials,Working Capital,10648.46,Annual Balance Sheet Report 2024-2025.csv
+2024,May,Other Financials,Working Capital,11877.59,Annual Balance Sheet Report 2024-2025.csv
+2024,June,Other Financials,Working Capital,11998.43,Annual Balance Sheet Report 2024-2025.csv
+2024,July,Other Financials,Working Capital,13177.86,Annual Balance Sheet Report 2024-2025.csv
+2024,August,Other Financials,Working Capital,12893.19,Annual Balance Sheet Report 2024-2025.csv
+2024,September,Other Financials,Working Capital,12936.71,Annual Balance Sheet Report 2024-2025.csv
+2024,October,Other Financials,Working Capital,13312.62,Annual Balance Sheet Report 2024-2025.csv
+2024,November,Other Financials,Working Capital,13435.1,Annual Balance Sheet Report 2024-2025.csv
+2024,December,Other Financials,Working Capital,14429.7,Annual Balance Sheet Report 2024-2025.csv
+2025,January,Other Financials,Working Capital,13727.51,Annual Balance Sheet Report 2024-2025.csv
+2025,February,Other Financials,Working Capital,12180.6,Annual Balance Sheet Report 2024-2025.csv
+2025,March,Other Financials,Working Capital,0.0,Annual Balance Sheet Report 2024-2025.csv
+2024,April,Other Financials,Working Capital w/o Cash,10648.46,Annual Balance Sheet Report 2024-2025.csv
+2024,May,Other Financials,Working Capital w/o Cash,11877.59,Annual Balance Sheet Report 2024-2025.csv
+2024,June,Other Financials,Working Capital w/o Cash,11998.43,Annual Balance Sheet Report 2024-2025.csv
+2024,July,Other Financials,Working Capital w/o Cash,13177.86,Annual Balance Sheet Report 2024-2025.csv
+2024,August,Other Financials,Working Capital w/o Cash,12893.19,Annual Balance Sheet Report 2024-2025.csv
+2024,September,Other Financials,Working Capital w/o Cash,12936.71,Annual Balance Sheet Report 2024-2025.csv
+2024,October,Other Financials,Working Capital w/o Cash,13312.62,Annual Balance Sheet Report 2024-2025.csv
+2024,November,Other Financials,Working Capital w/o Cash,13435.1,Annual Balance Sheet Report 2024-2025.csv
+2024,December,Other Financials,Working Capital w/o Cash,14429.7,Annual Balance Sheet Report 2024-2025.csv
+2025,January,Other Financials,Working Capital w/o Cash,13727.51,Annual Balance Sheet Report 2024-2025.csv
+2025,February,Other Financials,Working Capital w/o Cash,12180.6,Annual Balance Sheet Report 2024-2025.csv
+2025,March,Other Financials,Working Capital w/o Cash,0.0,Annual Balance Sheet Report 2024-2025.csv
+2024,April,Other Financials,Effective Net Debt,-1497.24,Annual Balance Sheet Report 2024-2025.csv
+2024,May,Other Financials,Effective Net Debt,-1497.24,Annual Balance Sheet Report 2024-2025.csv
+2024,June,Other Financials,Effective Net Debt,-1497.24,Annual Balance Sheet Report 2024-2025.csv
+2024,July,Other Financials,Effective Net Debt,-1497.24,Annual Balance Sheet Report 2024-2025.csv
+2024,August,Other Financials,Effective Net Debt,-1497.24,Annual Balance Sheet Report 2024-2025.csv
+2024,September,Other Financials,Effective Net Debt,-1497.24,Annual Balance Sheet Report 2024-2025.csv
+2024,October,Other Financials,Effective Net Debt,-1497.24,Annual Balance Sheet Report 2024-2025.csv
+2024,November,Other Financials,Effective Net Debt,-1497.24,Annual Balance Sheet Report 2024-2025.csv
+2024,December,Other Financials,Effective Net Debt,-1497.24,Annual Balance Sheet Report 2024-2025.csv
+2025,January,Other Financials,Effective Net Debt,-1497.24,Annual Balance Sheet Report 2024-2025.csv
+2025,February,Other Financials,Effective Net Debt,-1497.24,Annual Balance Sheet Report 2024-2025.csv
+2025,March,Other Financials,Effective Net Debt,0.0,Annual Balance Sheet Report 2024-2025.csv
+2023,April,Sources of Fund,Sources of Fund,-136818.2,Annual Balance Sheet Report 2023-2024.csv
+2023,May,Sources of Fund,Sources of Fund,-137597.82,Annual Balance Sheet Report 2023-2024.csv
+2023,June,Sources of Fund,Sources of Fund,-137203.98,Annual Balance Sheet Report 2023-2024.csv
+2023,July,Sources of Fund,Sources of Fund,-137566.67,Annual Balance Sheet Report 2023-2024.csv
+2023,August,Sources of Fund,Sources of Fund,-138994.33,Annual Balance Sheet Report 2023-2024.csv
+2023,September,Sources of Fund,Sources of Fund,-138906.84,Annual Balance Sheet Report 2023-2024.csv
+2023,October,Sources of Fund,Sources of Fund,-140039.99,Annual Balance Sheet Report 2023-2024.csv
+2023,November,Sources of Fund,Sources of Fund,-141645.26,Annual Balance Sheet Report 2023-2024.csv
+2023,December,Sources of Fund,Sources of Fund,-141235.95,Annual Balance Sheet Report 2023-2024.csv
+2024,January,Sources of Fund,Sources of Fund,-143371.65,Annual Balance Sheet Report 2023-2024.csv
+2024,February,Sources of Fund,Sources of Fund,-145998.39,Annual Balance Sheet Report 2023-2024.csv
+2024,March,Sources of Fund,Sources of Fund,-148109.6,Annual Balance Sheet Report 2023-2024.csv
+2023,April,Application of Fund,Application of Fund,1497.24,Annual Balance Sheet Report 2023-2024.csv
+2023,May,Application of Fund,Application of Fund,1497.24,Annual Balance Sheet Report 2023-2024.csv
+2023,June,Application of Fund,Application of Fund,1497.24,Annual Balance Sheet Report 2023-2024.csv
+2023,July,Application of Fund,Application of Fund,1497.24,Annual Balance Sheet Report 2023-2024.csv
+2023,August,Application of Fund,Application of Fund,1497.24,Annual Balance Sheet Report 2023-2024.csv
+2023,September,Application of Fund,Application of Fund,1497.24,Annual Balance Sheet Report 2023-2024.csv
+2023,October,Application of Fund,Application of Fund,1497.24,Annual Balance Sheet Report 2023-2024.csv
+2023,November,Application of Fund,Application of Fund,1497.24,Annual Balance Sheet Report 2023-2024.csv
+2023,December,Application of Fund,Application of Fund,1497.24,Annual Balance Sheet Report 2023-2024.csv
+2024,January,Application of Fund,Application of Fund,1497.24,Annual Balance Sheet Report 2023-2024.csv
+2024,February,Application of Fund,Application of Fund,1497.24,Annual Balance Sheet Report 2023-2024.csv
+2024,March,Application of Fund,Application of Fund,1497.24,Annual Balance Sheet Report 2023-2024.csv
+2023,April,Free Cash,FX Impact on fixed Assets,-210.45,Annual Balance Sheet Report 2023-2024.csv
+2023,May,Free Cash,FX Impact on fixed Assets,-298.76,Annual Balance Sheet Report 2023-2024.csv
+2023,June,Free Cash,FX Impact on fixed Assets,-310.81,Annual Balance Sheet Report 2023-2024.csv
+2023,July,Free Cash,FX Impact on fixed Assets,284.77,Annual Balance Sheet Report 2023-2024.csv
+2023,August,Free Cash,FX Impact on fixed Assets,35.87,Annual Balance Sheet Report 2023-2024.csv
+2023,September,Free Cash,FX Impact on fixed Assets,-130.54,Annual Balance Sheet Report 2023-2024.csv
+2023,October,Free Cash,FX Impact on fixed Assets,-334.35,Annual Balance Sheet Report 2023-2024.csv
+2023,November,Free Cash,FX Impact on fixed Assets,-15917.29,Annual Balance Sheet Report 2023-2024.csv
+2023,December,Free Cash,FX Impact on fixed Assets,-73.0,Annual Balance Sheet Report 2023-2024.csv
+2024,January,Free Cash,FX Impact on fixed Assets,40.26,Annual Balance Sheet Report 2023-2024.csv
+2024,February,Free Cash,FX Impact on fixed Assets,252.39,Annual Balance Sheet Report 2023-2024.csv
+2024,March,Free Cash,FX Impact on fixed Assets,507.23,Annual Balance Sheet Report 2023-2024.csv
+2023,April,Free Cash,Capital employed w/o Factoring & SCF,1497.24,Annual Balance Sheet Report 2023-2024.csv
+2023,May,Free Cash,Capital employed w/o Factoring & SCF,1497.24,Annual Balance Sheet Report 2023-2024.csv
+2023,June,Free Cash,Capital employed w/o Factoring & SCF,1497.24,Annual Balance Sheet Report 2023-2024.csv
+2023,July,Free Cash,Capital employed w/o Factoring & SCF,1497.24,Annual Balance Sheet Report 2023-2024.csv
+2023,August,Free Cash,Capital employed w/o Factoring & SCF,1497.24,Annual Balance Sheet Report 2023-2024.csv
+2023,September,Free Cash,Capital employed w/o Factoring & SCF,1497.24,Annual Balance Sheet Report 2023-2024.csv
+2023,October,Free Cash,Capital employed w/o Factoring & SCF,1497.24,Annual Balance Sheet Report 2023-2024.csv
+2023,November,Free Cash,Capital employed w/o Factoring & SCF,1497.24,Annual Balance Sheet Report 2023-2024.csv
+2023,December,Free Cash,Capital employed w/o Factoring & SCF,1497.24,Annual Balance Sheet Report 2023-2024.csv
+2024,January,Free Cash,Capital employed w/o Factoring & SCF,1497.24,Annual Balance Sheet Report 2023-2024.csv
+2024,February,Free Cash,Capital employed w/o Factoring & SCF,1497.24,Annual Balance Sheet Report 2023-2024.csv
+2024,March,Free Cash,Capital employed w/o Factoring & SCF,1497.24,Annual Balance Sheet Report 2023-2024.csv
+2023,April,Free Cash,Capital Employed,49488.67,Annual Balance Sheet Report 2023-2024.csv
+2023,May,Free Cash,Capital Employed,49766.48,Annual Balance Sheet Report 2023-2024.csv
+2023,June,Free Cash,Capital Employed,49732.53,Annual Balance Sheet Report 2023-2024.csv
+2023,July,Free Cash,Capital Employed,49647.68,Annual Balance Sheet Report 2023-2024.csv
+2023,August,Free Cash,Capital Employed,50569.84,Annual Balance Sheet Report 2023-2024.csv
+2023,September,Free Cash,Capital Employed,49748.86,Annual Balance Sheet Report 2023-2024.csv
+2023,October,Free Cash,Capital Employed,49310.75,Annual Balance Sheet Report 2023-2024.csv
+2023,November,Free Cash,Capital Employed,33488.72,Annual Balance Sheet Report 2023-2024.csv
+2023,December,Free Cash,Capital Employed,33133.84,Annual Balance Sheet Report 2023-2024.csv
+2024,January,Free Cash,Capital Employed,33507.4,Annual Balance Sheet Report 2023-2024.csv
+2024,February,Free Cash,Capital Employed,33177.62,Annual Balance Sheet Report 2023-2024.csv
+2024,March,Free Cash,Capital Employed,33462.81,Annual Balance Sheet Report 2023-2024.csv
+2023,April,Free Cash,Capex -Calculated (MTM),-74.31,Annual Balance Sheet Report 2023-2024.csv
+2023,May,Free Cash,Capex -Calculated (MTM),-251.07,Annual Balance Sheet Report 2023-2024.csv
+2023,June,Free Cash,Capex -Calculated (MTM),-146.32,Annual Balance Sheet Report 2023-2024.csv
+2023,July,Free Cash,Capex -Calculated (MTM),922.31,Annual Balance Sheet Report 2023-2024.csv
+2023,August,Free Cash,Capex -Calculated (MTM),407.61,Annual Balance Sheet Report 2023-2024.csv
+2023,September,Free Cash,Capex -Calculated (MTM),90.28,Annual Balance Sheet Report 2023-2024.csv
+2023,October,Free Cash,Capex -Calculated (MTM),-317.63,Annual Balance Sheet Report 2023-2024.csv
+2023,November,Free Cash,Capex -Calculated (MTM),-31547.75,Annual Balance Sheet Report 2023-2024.csv
+2023,December,Free Cash,Capex -Calculated (MTM),135.02,Annual Balance Sheet Report 2023-2024.csv
+2024,January,Free Cash,Capex -Calculated (MTM),357.05,Annual Balance Sheet Report 2023-2024.csv
+2024,February,Free Cash,Capex -Calculated (MTM),781.13,Annual Balance Sheet Report 2023-2024.csv
+2024,March,Free Cash,Capex -Calculated (MTM),1281.78,Annual Balance Sheet Report 2023-2024.csv
+2023,April,Free Cash,Capex -Calculated (YTM),-74.31,Annual Balance Sheet Report 2023-2024.csv
+2023,May,Free Cash,Capex -Calculated (YTM),-325.37,Annual Balance Sheet Report 2023-2024.csv
+2023,June,Free Cash,Capex -Calculated (YTM),-471.7,Annual Balance Sheet Report 2023-2024.csv
+2023,July,Free Cash,Capex -Calculated (YTM),450.61,Annual Balance Sheet Report 2023-2024.csv
+2023,August,Free Cash,Capex -Calculated (YTM),858.22,Annual Balance Sheet Report 2023-2024.csv
+2023,September,Free Cash,Capex -Calculated (YTM),948.5,Annual Balance Sheet Report 2023-2024.csv
+2023,October,Free Cash,Capex -Calculated (YTM),630.86,Annual Balance Sheet Report 2023-2024.csv
+2023,November,Free Cash,Capex -Calculated (YTM),-30916.89,Annual Balance Sheet Report 2023-2024.csv
+2023,December,Free Cash,Capex -Calculated (YTM),-30781.87,Annual Balance Sheet Report 2023-2024.csv
+2024,January,Free Cash,Capex -Calculated (YTM),-30424.82,Annual Balance Sheet Report 2023-2024.csv
+2024,February,Free Cash,Capex -Calculated (YTM),-29643.68,Annual Balance Sheet Report 2023-2024.csv
+2024,March,Free Cash,Capex -Calculated (YTM),-28361.91,Annual Balance Sheet Report 2023-2024.csv
+2023,April,Free Cash,Capex(MTM),136.71,Annual Balance Sheet Report 2023-2024.csv
+2023,May,Free Cash,Capex(MTM),48.26,Annual Balance Sheet Report 2023-2024.csv
+2023,June,Free Cash,Capex(MTM),37.19,Annual Balance Sheet Report 2023-2024.csv
+2023,July,Free Cash,Capex(MTM),638.11,Annual Balance Sheet Report 2023-2024.csv
+2023,August,Free Cash,Capex(MTM),389.84,Annual Balance Sheet Report 2023-2024.csv
+2023,September,Free Cash,Capex(MTM),221.38,Annual Balance Sheet Report 2023-2024.csv
+2023,October,Free Cash,Capex(MTM),17.29,Annual Balance Sheet Report 2023-2024.csv
+2023,November,Free Cash,Capex(MTM),99.65,Annual Balance Sheet Report 2023-2024.csv
+2023,December,Free Cash,Capex(MTM),207.89,Annual Balance Sheet Report 2023-2024.csv
+2024,January,Free Cash,Capex(MTM),318.44,Annual Balance Sheet Report 2023-2024.csv
+2024,February,Free Cash,Capex(MTM),529.4,Annual Balance Sheet Report 2023-2024.csv
+2024,March,Free Cash,Capex(MTM),807.19,Annual Balance Sheet Report 2023-2024.csv
+2023,April,Free Cash,Capex (YTM),136.71,Annual Balance Sheet Report 2023-2024.csv
+2023,May,Free Cash,Capex (YTM),184.96,Annual Balance Sheet Report 2023-2024.csv
+2023,June,Free Cash,Capex (YTM),222.16,Annual Balance Sheet Report 2023-2024.csv
+2023,July,Free Cash,Capex (YTM),860.27,Annual Balance Sheet Report 2023-2024.csv
+2023,August,Free Cash,Capex (YTM),1250.11,Annual Balance Sheet Report 2023-2024.csv
+2023,September,Free Cash,Capex (YTM),1471.49,Annual Balance Sheet Report 2023-2024.csv
+2023,October,Free Cash,Capex (YTM),1488.78,Annual Balance Sheet Report 2023-2024.csv
+2023,November,Free Cash,Capex (YTM),1588.43,Annual Balance Sheet Report 2023-2024.csv
+2023,December,Free Cash,Capex (YTM),1796.33,Annual Balance Sheet Report 2023-2024.csv
+2024,January,Free Cash,Capex (YTM),2114.77,Annual Balance Sheet Report 2023-2024.csv
+2024,February,Free Cash,Capex (YTM),2644.16,Annual Balance Sheet Report 2023-2024.csv
+2024,March,Free Cash,Capex (YTM),3451.35,Annual Balance Sheet Report 2023-2024.csv
+2023,April,Free Cash,Working Capital Changes,217.75,Annual Balance Sheet Report 2023-2024.csv
+2023,May,Free Cash,Working Capital Changes,-369.53,Annual Balance Sheet Report 2023-2024.csv
+2023,June,Free Cash,Working Capital Changes,-529.24,Annual Balance Sheet Report 2023-2024.csv
+2023,July,Free Cash,Working Capital Changes,-170.34,Annual Balance Sheet Report 2023-2024.csv
+2023,August,Free Cash,Working Capital Changes,-1084.88,Annual Balance Sheet Report 2023-2024.csv
+2023,September,Free Cash,Working Capital Changes,-405.15,Annual Balance Sheet Report 2023-2024.csv
+2023,October,Free Cash,Working Capital Changes,-312.11,Annual Balance Sheet Report 2023-2024.csv
+2023,November,Free Cash,Working Capital Changes,-418.78,Annual Balance Sheet Report 2023-2024.csv
+2023,December,Free Cash,Working Capital Changes,-146.92,Annual Balance Sheet Report 2023-2024.csv
+2024,January,Free Cash,Working Capital Changes,-490.93,Annual Balance Sheet Report 2023-2024.csv
+2024,February,Free Cash,Working Capital Changes,80.52,Annual Balance Sheet Report 2023-2024.csv
+2024,March,Free Cash,Working Capital Changes,291.85,Annual Balance Sheet Report 2023-2024.csv
+2023,April,Free Cash,(Increase)/Decrease in Inventory,217.75,Annual Balance Sheet Report 2023-2024.csv
+2023,May,Free Cash,(Increase)/Decrease in Inventory,-369.53,Annual Balance Sheet Report 2023-2024.csv
+2023,June,Free Cash,(Increase)/Decrease in Inventory,-529.24,Annual Balance Sheet Report 2023-2024.csv
+2023,July,Free Cash,(Increase)/Decrease in Inventory,-170.34,Annual Balance Sheet Report 2023-2024.csv
+2023,August,Free Cash,(Increase)/Decrease in Inventory,-1084.88,Annual Balance Sheet Report 2023-2024.csv
+2023,September,Free Cash,(Increase)/Decrease in Inventory,-405.15,Annual Balance Sheet Report 2023-2024.csv
+2023,October,Free Cash,(Increase)/Decrease in Inventory,-312.11,Annual Balance Sheet Report 2023-2024.csv
+2023,November,Free Cash,(Increase)/Decrease in Inventory,-418.78,Annual Balance Sheet Report 2023-2024.csv
+2023,December,Free Cash,(Increase)/Decrease in Inventory,-146.92,Annual Balance Sheet Report 2023-2024.csv
+2024,January,Free Cash,(Increase)/Decrease in Inventory,-490.93,Annual Balance Sheet Report 2023-2024.csv
+2024,February,Free Cash,(Increase)/Decrease in Inventory,80.52,Annual Balance Sheet Report 2023-2024.csv
+2024,March,Free Cash,(Increase)/Decrease in Inventory,291.85,Annual Balance Sheet Report 2023-2024.csv
+2023,April,Free Cash,FCF w/o Factoring & SCF,-546.86,Annual Balance Sheet Report 2023-2024.csv
+2023,May,Free Cash,FCF w/o Factoring & SCF,-1305.53,Annual Balance Sheet Report 2023-2024.csv
+2023,June,Free Cash,FCF w/o Factoring & SCF,-566.93,Annual Balance Sheet Report 2023-2024.csv
+2023,July,Free Cash,FCF w/o Factoring & SCF,-1129.54,Annual Balance Sheet Report 2023-2024.csv
+2023,August,Free Cash,FCF w/o Factoring & SCF,-3515.22,Annual Balance Sheet Report 2023-2024.csv
+2023,September,Free Cash,FCF w/o Factoring & SCF,-2476.21,Annual Balance Sheet Report 2023-2024.csv
+2023,October,Free Cash,FCF w/o Factoring & SCF,-2836.89,Annual Balance Sheet Report 2023-2024.csv
+2023,November,Free Cash,FCF w/o Factoring & SCF,27641.88,Annual Balance Sheet Report 2023-2024.csv
+2023,December,Free Cash,FCF w/o Factoring & SCF,28479.06,Annual Balance Sheet Report 2023-2024.csv
+2024,January,Free Cash,FCF w/o Factoring & SCF,25929.55,Annual Balance Sheet Report 2023-2024.csv
+2024,February,Free Cash,FCF w/o Factoring & SCF,23380.2,Annual Balance Sheet Report 2023-2024.csv
+2024,March,Free Cash,FCF w/o Factoring & SCF,20476.57,Annual Balance Sheet Report 2023-2024.csv
+2023,April,Free Cash,FCF w/o Factoring & SCF (without actualized Capex),-757.88,Annual Balance Sheet Report 2023-2024.csv
+2023,May,Free Cash,FCF w/o Factoring & SCF (without actualized Capex),-1815.86,Annual Balance Sheet Report 2023-2024.csv
+2023,June,Free Cash,FCF w/o Factoring & SCF (without actualized Capex),-1260.78,Annual Balance Sheet Report 2023-2024.csv
+2023,July,Free Cash,FCF w/o Factoring & SCF (without actualized Capex),-1539.19,Annual Balance Sheet Report 2023-2024.csv
+2023,August,Free Cash,FCF w/o Factoring & SCF (without actualized Capex),-3907.11,Annual Balance Sheet Report 2023-2024.csv
+2023,September,Free Cash,FCF w/o Factoring & SCF (without actualized Capex),-2999.2,Annual Balance Sheet Report 2023-2024.csv
+2023,October,Free Cash,FCF w/o Factoring & SCF (without actualized Capex),-3694.81,Annual Balance Sheet Report 2023-2024.csv
+2023,November,Free Cash,FCF w/o Factoring & SCF (without actualized Capex),-4863.44,Annual Balance Sheet Report 2023-2024.csv
+2023,December,Free Cash,FCF w/o Factoring & SCF (without actualized Capex),-4099.13,Annual Balance Sheet Report 2023-2024.csv
+2024,January,Free Cash,FCF w/o Factoring & SCF (without actualized Capex),-6610.03,Annual Balance Sheet Report 2023-2024.csv
+2024,February,Free Cash,FCF w/o Factoring & SCF (without actualized Capex),-8907.64,Annual Balance Sheet Report 2023-2024.csv
+2024,March,Free Cash,FCF w/o Factoring & SCF (without actualized Capex),-11336.69,Annual Balance Sheet Report 2023-2024.csv
+2023,April,Free Cash,Free Cash Flow after tax,-546.86,Annual Balance Sheet Report 2023-2024.csv
+2023,May,Free Cash,Free Cash Flow after tax,-1305.53,Annual Balance Sheet Report 2023-2024.csv
+2023,June,Free Cash,Free Cash Flow after tax,-566.93,Annual Balance Sheet Report 2023-2024.csv
+2023,July,Free Cash,Free Cash Flow after tax,-1129.54,Annual Balance Sheet Report 2023-2024.csv
+2023,August,Free Cash,Free Cash Flow after tax,-3515.22,Annual Balance Sheet Report 2023-2024.csv
+2023,September,Free Cash,Free Cash Flow after tax,-2476.21,Annual Balance Sheet Report 2023-2024.csv
+2023,October,Free Cash,Free Cash Flow after tax,-2836.89,Annual Balance Sheet Report 2023-2024.csv
+2023,November,Free Cash,Free Cash Flow after tax,27641.88,Annual Balance Sheet Report 2023-2024.csv
+2023,December,Free Cash,Free Cash Flow after tax,28479.06,Annual Balance Sheet Report 2023-2024.csv
+2024,January,Free Cash,Free Cash Flow after tax,25929.55,Annual Balance Sheet Report 2023-2024.csv
+2024,February,Free Cash,Free Cash Flow after tax,23380.2,Annual Balance Sheet Report 2023-2024.csv
+2024,March,Free Cash,Free Cash Flow after tax,20476.57,Annual Balance Sheet Report 2023-2024.csv
+2023,April,Free Cash,"FCF w/o Interest, Factoring & SCF",-545.93,Annual Balance Sheet Report 2023-2024.csv
+2023,May,Free Cash,"FCF w/o Interest, Factoring & SCF",-1303.66,Annual Balance Sheet Report 2023-2024.csv
+2023,June,Free Cash,"FCF w/o Interest, Factoring & SCF",-564.13,Annual Balance Sheet Report 2023-2024.csv
+2023,July,Free Cash,"FCF w/o Interest, Factoring & SCF",-1125.8,Annual Balance Sheet Report 2023-2024.csv
+2023,August,Free Cash,"FCF w/o Interest, Factoring & SCF",-3510.55,Annual Balance Sheet Report 2023-2024.csv
+2023,September,Free Cash,"FCF w/o Interest, Factoring & SCF",-2470.6,Annual Balance Sheet Report 2023-2024.csv
+2023,October,Free Cash,"FCF w/o Interest, Factoring & SCF",-2830.35,Annual Balance Sheet Report 2023-2024.csv
+2023,November,Free Cash,"FCF w/o Interest, Factoring & SCF",27649.35,Annual Balance Sheet Report 2023-2024.csv
+2023,December,Free Cash,"FCF w/o Interest, Factoring & SCF",28487.47,Annual Balance Sheet Report 2023-2024.csv
+2024,January,Free Cash,"FCF w/o Interest, Factoring & SCF",25938.9,Annual Balance Sheet Report 2023-2024.csv
+2024,February,Free Cash,"FCF w/o Interest, Factoring & SCF",23390.48,Annual Balance Sheet Report 2023-2024.csv
+2024,March,Free Cash,"FCF w/o Interest, Factoring & SCF",20487.78,Annual Balance Sheet Report 2023-2024.csv
+2023,April,Free Cash,Free Cash Flow before WC (w.o Interest),-763.67,Annual Balance Sheet Report 2023-2024.csv
+2023,May,Free Cash,Free Cash Flow before WC (w.o Interest),-934.13,Annual Balance Sheet Report 2023-2024.csv
+2023,June,Free Cash,Free Cash Flow before WC (w.o Interest),-34.88,Annual Balance Sheet Report 2023-2024.csv
+2023,July,Free Cash,Free Cash Flow before WC (w.o Interest),-955.46,Annual Balance Sheet Report 2023-2024.csv
+2023,August,Free Cash,Free Cash Flow before WC (w.o Interest),-2425.66,Annual Balance Sheet Report 2023-2024.csv
+2023,September,Free Cash,Free Cash Flow before WC (w.o Interest),-2065.45,Annual Balance Sheet Report 2023-2024.csv
+2023,October,Free Cash,Free Cash Flow before WC (w.o Interest),-2518.24,Annual Balance Sheet Report 2023-2024.csv
+2023,November,Free Cash,Free Cash Flow before WC (w.o Interest),28068.13,Annual Balance Sheet Report 2023-2024.csv
+2023,December,Free Cash,Free Cash Flow before WC (w.o Interest),28634.4,Annual Balance Sheet Report 2023-2024.csv
+2024,January,Free Cash,Free Cash Flow before WC (w.o Interest),26429.83,Annual Balance Sheet Report 2023-2024.csv
+2024,February,Free Cash,Free Cash Flow before WC (w.o Interest),23309.96,Annual Balance Sheet Report 2023-2024.csv
+2024,March,Free Cash,Free Cash Flow before WC (w.o Interest),20195.93,Annual Balance Sheet Report 2023-2024.csv
+2023,April,Other Financials,Equity and Liabilities (Total Sources Of Funds),-136818.2,Annual Balance Sheet Report 2023-2024.csv
+2023,May,Other Financials,Equity and Liabilities (Total Sources Of Funds),-137597.82,Annual Balance Sheet Report 2023-2024.csv
+2023,June,Other Financials,Equity and Liabilities (Total Sources Of Funds),-137203.98,Annual Balance Sheet Report 2023-2024.csv
+2023,July,Other Financials,Equity and Liabilities (Total Sources Of Funds),-137566.67,Annual Balance Sheet Report 2023-2024.csv
+2023,August,Other Financials,Equity and Liabilities (Total Sources Of Funds),-138994.33,Annual Balance Sheet Report 2023-2024.csv
+2023,September,Other Financials,Equity and Liabilities (Total Sources Of Funds),-138906.84,Annual Balance Sheet Report 2023-2024.csv
+2023,October,Other Financials,Equity and Liabilities (Total Sources Of Funds),-140039.99,Annual Balance Sheet Report 2023-2024.csv
+2023,November,Other Financials,Equity and Liabilities (Total Sources Of Funds),-141645.26,Annual Balance Sheet Report 2023-2024.csv
+2023,December,Other Financials,Equity and Liabilities (Total Sources Of Funds),-141235.95,Annual Balance Sheet Report 2023-2024.csv
+2024,January,Other Financials,Equity and Liabilities (Total Sources Of Funds),-143371.65,Annual Balance Sheet Report 2023-2024.csv
+2024,February,Other Financials,Equity and Liabilities (Total Sources Of Funds),-145998.39,Annual Balance Sheet Report 2023-2024.csv
+2024,March,Other Financials,Equity and Liabilities (Total Sources Of Funds),-148109.6,Annual Balance Sheet Report 2023-2024.csv
+2023,April,Other Financials,Profit For Current Year (YTM),-1196.22,Annual Balance Sheet Report 2023-2024.csv
+2023,May,Other Financials,Profit For Current Year (YTM),-1975.83,Annual Balance Sheet Report 2023-2024.csv
+2023,June,Other Financials,Profit For Current Year (YTM),-1581.99,Annual Balance Sheet Report 2023-2024.csv
+2023,July,Other Financials,Profit For Current Year (YTM),-1944.68,Annual Balance Sheet Report 2023-2024.csv
+2023,August,Other Financials,Profit For Current Year (YTM),-3372.34,Annual Balance Sheet Report 2023-2024.csv
+2023,September,Other Financials,Profit For Current Year (YTM),-3284.85,Annual Balance Sheet Report 2023-2024.csv
+2023,October,Other Financials,Profit For Current Year (YTM),-4418.0,Annual Balance Sheet Report 2023-2024.csv
+2023,November,Other Financials,Profit For Current Year (YTM),-5678.55,Annual Balance Sheet Report 2023-2024.csv
+2023,December,Other Financials,Profit For Current Year (YTM),-5269.24,Annual Balance Sheet Report 2023-2024.csv
+2024,January,Other Financials,Profit For Current Year (YTM),-7404.94,Annual Balance Sheet Report 2023-2024.csv
+2024,February,Other Financials,Profit For Current Year (YTM),-10031.68,Annual Balance Sheet Report 2023-2024.csv
+2024,March,Other Financials,Profit For Current Year (YTM),-12142.89,Annual Balance Sheet Report 2023-2024.csv
+2023,April,Other Financials,Profit and Loss Opening,-135621.99,Annual Balance Sheet Report 2023-2024.csv
+2023,May,Other Financials,Profit and Loss Opening,-135621.99,Annual Balance Sheet Report 2023-2024.csv
+2023,June,Other Financials,Profit and Loss Opening,-135621.99,Annual Balance Sheet Report 2023-2024.csv
+2023,July,Other Financials,Profit and Loss Opening,-135621.99,Annual Balance Sheet Report 2023-2024.csv
+2023,August,Other Financials,Profit and Loss Opening,-135621.99,Annual Balance Sheet Report 2023-2024.csv
+2023,September,Other Financials,Profit and Loss Opening,-135621.99,Annual Balance Sheet Report 2023-2024.csv
+2023,October,Other Financials,Profit and Loss Opening,-135621.99,Annual Balance Sheet Report 2023-2024.csv
+2023,November,Other Financials,Profit and Loss Opening,-135966.71,Annual Balance Sheet Report 2023-2024.csv
+2023,December,Other Financials,Profit and Loss Opening,-135966.71,Annual Balance Sheet Report 2023-2024.csv
+2024,January,Other Financials,Profit and Loss Opening,-135966.71,Annual Balance Sheet Report 2023-2024.csv
+2024,February,Other Financials,Profit and Loss Opening,-135966.71,Annual Balance Sheet Report 2023-2024.csv
+2024,March,Other Financials,Profit and Loss Opening,-135966.71,Annual Balance Sheet Report 2023-2024.csv
+2023,April,Other Financials,Total Assets (Application Of Funds),1497.24,Annual Balance Sheet Report 2023-2024.csv
+2023,May,Other Financials,Total Assets (Application Of Funds),1497.24,Annual Balance Sheet Report 2023-2024.csv
+2023,June,Other Financials,Total Assets (Application Of Funds),1497.24,Annual Balance Sheet Report 2023-2024.csv
+2023,July,Other Financials,Total Assets (Application Of Funds),1497.24,Annual Balance Sheet Report 2023-2024.csv
+2023,August,Other Financials,Total Assets (Application Of Funds),1497.24,Annual Balance Sheet Report 2023-2024.csv
+2023,September,Other Financials,Total Assets (Application Of Funds),1497.24,Annual Balance Sheet Report 2023-2024.csv
+2023,October,Other Financials,Total Assets (Application Of Funds),1497.24,Annual Balance Sheet Report 2023-2024.csv
+2023,November,Other Financials,Total Assets (Application Of Funds),1497.24,Annual Balance Sheet Report 2023-2024.csv
+2023,December,Other Financials,Total Assets (Application Of Funds),1497.24,Annual Balance Sheet Report 2023-2024.csv
+2024,January,Other Financials,Total Assets (Application Of Funds),1497.24,Annual Balance Sheet Report 2023-2024.csv
+2024,February,Other Financials,Total Assets (Application Of Funds),1497.24,Annual Balance Sheet Report 2023-2024.csv
+2024,March,Other Financials,Total Assets (Application Of Funds),1497.24,Annual Balance Sheet Report 2023-2024.csv
+2023,April,Other Financials,Working Capital,10243.73,Annual Balance Sheet Report 2023-2024.csv
+2023,May,Other Financials,Working Capital,10831.0,Annual Balance Sheet Report 2023-2024.csv
+2023,June,Other Financials,Working Capital,10990.72,Annual Balance Sheet Report 2023-2024.csv
+2023,July,Other Financials,Working Capital,10631.82,Annual Balance Sheet Report 2023-2024.csv
+2023,August,Other Financials,Working Capital,11546.36,Annual Balance Sheet Report 2023-2024.csv
+2023,September,Other Financials,Working Capital,10866.63,Annual Balance Sheet Report 2023-2024.csv
+2023,October,Other Financials,Working Capital,10773.59,Annual Balance Sheet Report 2023-2024.csv
+2023,November,Other Financials,Working Capital,10880.25,Annual Balance Sheet Report 2023-2024.csv
+2023,December,Other Financials,Working Capital,10608.4,Annual Balance Sheet Report 2023-2024.csv
+2024,January,Other Financials,Working Capital,10952.41,Annual Balance Sheet Report 2023-2024.csv
+2024,February,Other Financials,Working Capital,10380.96,Annual Balance Sheet Report 2023-2024.csv
+2024,March,Other Financials,Working Capital,10169.62,Annual Balance Sheet Report 2023-2024.csv
+2023,April,Other Financials,Working Capital w/o Cash,10243.73,Annual Balance Sheet Report 2023-2024.csv
+2023,May,Other Financials,Working Capital w/o Cash,10831.0,Annual Balance Sheet Report 2023-2024.csv
+2023,June,Other Financials,Working Capital w/o Cash,10990.72,Annual Balance Sheet Report 2023-2024.csv
+2023,July,Other Financials,Working Capital w/o Cash,10631.82,Annual Balance Sheet Report 2023-2024.csv
+2023,August,Other Financials,Working Capital w/o Cash,11546.36,Annual Balance Sheet Report 2023-2024.csv
+2023,September,Other Financials,Working Capital w/o Cash,10866.63,Annual Balance Sheet Report 2023-2024.csv
+2023,October,Other Financials,Working Capital w/o Cash,10773.59,Annual Balance Sheet Report 2023-2024.csv
+2023,November,Other Financials,Working Capital w/o Cash,10880.25,Annual Balance Sheet Report 2023-2024.csv
+2023,December,Other Financials,Working Capital w/o Cash,10608.4,Annual Balance Sheet Report 2023-2024.csv
+2024,January,Other Financials,Working Capital w/o Cash,10952.41,Annual Balance Sheet Report 2023-2024.csv
+2024,February,Other Financials,Working Capital w/o Cash,10380.96,Annual Balance Sheet Report 2023-2024.csv
+2024,March,Other Financials,Working Capital w/o Cash,10169.62,Annual Balance Sheet Report 2023-2024.csv
+2023,April,Other Financials,Effective Net Debt,-1497.24,Annual Balance Sheet Report 2023-2024.csv
+2023,May,Other Financials,Effective Net Debt,-1497.24,Annual Balance Sheet Report 2023-2024.csv
+2023,June,Other Financials,Effective Net Debt,-1497.24,Annual Balance Sheet Report 2023-2024.csv
+2023,July,Other Financials,Effective Net Debt,-1497.24,Annual Balance Sheet Report 2023-2024.csv
+2023,August,Other Financials,Effective Net Debt,-1497.24,Annual Balance Sheet Report 2023-2024.csv
+2023,September,Other Financials,Effective Net Debt,-1497.24,Annual Balance Sheet Report 2023-2024.csv
+2023,October,Other Financials,Effective Net Debt,-1497.24,Annual Balance Sheet Report 2023-2024.csv
+2023,November,Other Financials,Effective Net Debt,-1497.24,Annual Balance Sheet Report 2023-2024.csv
+2023,December,Other Financials,Effective Net Debt,-1497.24,Annual Balance Sheet Report 2023-2024.csv
+2024,January,Other Financials,Effective Net Debt,-1497.24,Annual Balance Sheet Report 2023-2024.csv
+2024,February,Other Financials,Effective Net Debt,-1497.24,Annual Balance Sheet Report 2023-2024.csv
+2024,March,Other Financials,Effective Net Debt,-1497.24,Annual Balance Sheet Report 2023-2024.csv
+2022,April,Sources of Fund,Sources of Fund,-119293.15,Annual Balance Sheet Report 2022-2023.csv
+2022,May,Sources of Fund,Sources of Fund,-121534.46,Annual Balance Sheet Report 2022-2023.csv
+2022,June,Sources of Fund,Sources of Fund,-123206.95,Annual Balance Sheet Report 2022-2023.csv
+2022,July,Sources of Fund,Sources of Fund,-125102.95,Annual Balance Sheet Report 2022-2023.csv
+2022,August,Sources of Fund,Sources of Fund,-127090.59,Annual Balance Sheet Report 2022-2023.csv
+2022,September,Sources of Fund,Sources of Fund,-131065.82,Annual Balance Sheet Report 2022-2023.csv
+2022,October,Sources of Fund,Sources of Fund,-132211.0,Annual Balance Sheet Report 2022-2023.csv
+2022,November,Sources of Fund,Sources of Fund,-134090.21,Annual Balance Sheet Report 2022-2023.csv
+2022,December,Sources of Fund,Sources of Fund,-136487.04,Annual Balance Sheet Report 2022-2023.csv
+2023,January,Sources of Fund,Sources of Fund,-135326.67,Annual Balance Sheet Report 2022-2023.csv
+2023,February,Sources of Fund,Sources of Fund,-136484.32,Annual Balance Sheet Report 2022-2023.csv
+2023,March,Sources of Fund,Sources of Fund,-135621.99,Annual Balance Sheet Report 2022-2023.csv
+2022,April,Application of Fund,Application of Fund,1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,May,Application of Fund,Application of Fund,1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,June,Application of Fund,Application of Fund,1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,July,Application of Fund,Application of Fund,1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,August,Application of Fund,Application of Fund,1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,September,Application of Fund,Application of Fund,1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,October,Application of Fund,Application of Fund,1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,November,Application of Fund,Application of Fund,1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,December,Application of Fund,Application of Fund,1497.24,Annual Balance Sheet Report 2022-2023.csv
+2023,January,Application of Fund,Application of Fund,1497.24,Annual Balance Sheet Report 2022-2023.csv
+2023,February,Application of Fund,Application of Fund,1497.24,Annual Balance Sheet Report 2022-2023.csv
+2023,March,Application of Fund,Application of Fund,1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,April,Free Cash,FX Impact on fixed Assets,0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,May,Free Cash,FX Impact on fixed Assets,0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,June,Free Cash,FX Impact on fixed Assets,-265.4,Annual Balance Sheet Report 2022-2023.csv
+2022,July,Free Cash,FX Impact on fixed Assets,575.14,Annual Balance Sheet Report 2022-2023.csv
+2022,August,Free Cash,FX Impact on fixed Assets,-267.6,Annual Balance Sheet Report 2022-2023.csv
+2022,September,Free Cash,FX Impact on fixed Assets,23.94,Annual Balance Sheet Report 2022-2023.csv
+2022,October,Free Cash,FX Impact on fixed Assets,116.46,Annual Balance Sheet Report 2022-2023.csv
+2022,November,Free Cash,FX Impact on fixed Assets,376.06,Annual Balance Sheet Report 2022-2023.csv
+2022,December,Free Cash,FX Impact on fixed Assets,-211.35,Annual Balance Sheet Report 2022-2023.csv
+2023,January,Free Cash,FX Impact on fixed Assets,197.31,Annual Balance Sheet Report 2022-2023.csv
+2023,February,Free Cash,FX Impact on fixed Assets,1993.9,Annual Balance Sheet Report 2022-2023.csv
+2023,March,Free Cash,FX Impact on fixed Assets,805.62,Annual Balance Sheet Report 2022-2023.csv
+2022,April,Free Cash,Capital Employed without Cash,38673.01,Annual Balance Sheet Report 2022-2023.csv
+2022,May,Free Cash,Capital Employed without Cash,38352.22,Annual Balance Sheet Report 2022-2023.csv
+2022,June,Free Cash,Capital Employed without Cash,0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,July,Free Cash,Capital Employed without Cash,0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,August,Free Cash,Capital Employed without Cash,0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,September,Free Cash,Capital Employed without Cash,0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,October,Free Cash,Capital Employed without Cash,0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,November,Free Cash,Capital Employed without Cash,0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,December,Free Cash,Capital Employed without Cash,0.0,Annual Balance Sheet Report 2022-2023.csv
+2023,January,Free Cash,Capital Employed without Cash,0.0,Annual Balance Sheet Report 2022-2023.csv
+2023,February,Free Cash,Capital Employed without Cash,0.0,Annual Balance Sheet Report 2022-2023.csv
+2023,March,Free Cash,Capital Employed without Cash,0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,April,Free Cash,Capital employed w/o Factoring & SCF,38673.01,Annual Balance Sheet Report 2022-2023.csv
+2022,May,Free Cash,Capital employed w/o Factoring & SCF,38352.22,Annual Balance Sheet Report 2022-2023.csv
+2022,June,Free Cash,Capital employed w/o Factoring & SCF,1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,July,Free Cash,Capital employed w/o Factoring & SCF,1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,August,Free Cash,Capital employed w/o Factoring & SCF,1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,September,Free Cash,Capital employed w/o Factoring & SCF,1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,October,Free Cash,Capital employed w/o Factoring & SCF,1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,November,Free Cash,Capital employed w/o Factoring & SCF,1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,December,Free Cash,Capital employed w/o Factoring & SCF,1497.24,Annual Balance Sheet Report 2022-2023.csv
+2023,January,Free Cash,Capital employed w/o Factoring & SCF,1497.24,Annual Balance Sheet Report 2022-2023.csv
+2023,February,Free Cash,Capital employed w/o Factoring & SCF,1497.24,Annual Balance Sheet Report 2022-2023.csv
+2023,March,Free Cash,Capital employed w/o Factoring & SCF,1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,April,Free Cash,Capital employed w/o Cash w/o Factoring & SCF,38673.01,Annual Balance Sheet Report 2022-2023.csv
+2022,May,Free Cash,Capital employed w/o Cash w/o Factoring & SCF,38352.22,Annual Balance Sheet Report 2022-2023.csv
+2022,June,Free Cash,Capital employed w/o Cash w/o Factoring & SCF,0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,July,Free Cash,Capital employed w/o Cash w/o Factoring & SCF,0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,August,Free Cash,Capital employed w/o Cash w/o Factoring & SCF,0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,September,Free Cash,Capital employed w/o Cash w/o Factoring & SCF,0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,October,Free Cash,Capital employed w/o Cash w/o Factoring & SCF,0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,November,Free Cash,Capital employed w/o Cash w/o Factoring & SCF,0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,December,Free Cash,Capital employed w/o Cash w/o Factoring & SCF,0.0,Annual Balance Sheet Report 2022-2023.csv
+2023,January,Free Cash,Capital employed w/o Cash w/o Factoring & SCF,0.0,Annual Balance Sheet Report 2022-2023.csv
+2023,February,Free Cash,Capital employed w/o Cash w/o Factoring & SCF,0.0,Annual Balance Sheet Report 2022-2023.csv
+2023,March,Free Cash,Capital employed w/o Cash w/o Factoring & SCF,0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,April,Free Cash,Capital Employed,38673.01,Annual Balance Sheet Report 2022-2023.csv
+2022,May,Free Cash,Capital Employed,38352.22,Annual Balance Sheet Report 2022-2023.csv
+2022,June,Free Cash,Capital Employed,1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,July,Free Cash,Capital Employed,1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,August,Free Cash,Capital Employed,47753.73,Annual Balance Sheet Report 2022-2023.csv
+2022,September,Free Cash,Capital Employed,47819.64,Annual Balance Sheet Report 2022-2023.csv
+2022,October,Free Cash,Capital Employed,48466.42,Annual Balance Sheet Report 2022-2023.csv
+2022,November,Free Cash,Capital Employed,48242.47,Annual Balance Sheet Report 2022-2023.csv
+2022,December,Free Cash,Capital Employed,47487.48,Annual Balance Sheet Report 2022-2023.csv
+2023,January,Free Cash,Capital Employed,47884.05,Annual Balance Sheet Report 2022-2023.csv
+2023,February,Free Cash,Capital Employed,49660.7,Annual Balance Sheet Report 2022-2023.csv
+2023,March,Free Cash,Capital Employed,49927.58,Annual Balance Sheet Report 2022-2023.csv
+2022,April,Free Cash,Free Cash Before tax  -(MTM),-1122.92,Annual Balance Sheet Report 2022-2023.csv
+2022,May,Free Cash,Free Cash Before tax  -(MTM),-1981.96,Annual Balance Sheet Report 2022-2023.csv
+2022,June,Free Cash,Free Cash Before tax  -(MTM),236.61,Annual Balance Sheet Report 2022-2023.csv
+2022,July,Free Cash,Free Cash Before tax  -(MTM),-1461.67,Annual Balance Sheet Report 2022-2023.csv
+2022,August,Free Cash,Free Cash Before tax  -(MTM),-12785.8,Annual Balance Sheet Report 2022-2023.csv
+2022,September,Free Cash,Free Cash Before tax  -(MTM),-2112.09,Annual Balance Sheet Report 2022-2023.csv
+2022,October,Free Cash,Free Cash Before tax  -(MTM),-3841.12,Annual Balance Sheet Report 2022-2023.csv
+2022,November,Free Cash,Free Cash Before tax  -(MTM),-1716.81,Annual Balance Sheet Report 2022-2023.csv
+2022,December,Free Cash,Free Cash Before tax  -(MTM),-1700.13,Annual Balance Sheet Report 2022-2023.csv
+2023,January,Free Cash,Free Cash Before tax  -(MTM),702.07,Annual Balance Sheet Report 2022-2023.csv
+2023,February,Free Cash,Free Cash Before tax  -(MTM),-2998.02,Annual Balance Sheet Report 2022-2023.csv
+2023,March,Free Cash,Free Cash Before tax  -(MTM),0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,April,Free Cash,Free Cash Before tax -(YTM),-1122.92,Annual Balance Sheet Report 2022-2023.csv
+2022,May,Free Cash,Free Cash Before tax -(YTM),-3104.88,Annual Balance Sheet Report 2022-2023.csv
+2022,June,Free Cash,Free Cash Before tax -(YTM),-2868.27,Annual Balance Sheet Report 2022-2023.csv
+2022,July,Free Cash,Free Cash Before tax -(YTM),-4329.94,Annual Balance Sheet Report 2022-2023.csv
+2022,August,Free Cash,Free Cash Before tax -(YTM),-17115.74,Annual Balance Sheet Report 2022-2023.csv
+2022,September,Free Cash,Free Cash Before tax -(YTM),-19227.84,Annual Balance Sheet Report 2022-2023.csv
+2022,October,Free Cash,Free Cash Before tax -(YTM),-23068.96,Annual Balance Sheet Report 2022-2023.csv
+2022,November,Free Cash,Free Cash Before tax -(YTM),-24785.77,Annual Balance Sheet Report 2022-2023.csv
+2022,December,Free Cash,Free Cash Before tax -(YTM),-26485.9,Annual Balance Sheet Report 2022-2023.csv
+2023,January,Free Cash,Free Cash Before tax -(YTM),-25783.83,Annual Balance Sheet Report 2022-2023.csv
+2023,February,Free Cash,Free Cash Before tax -(YTM),-28781.84,Annual Balance Sheet Report 2022-2023.csv
+2023,March,Free Cash,Free Cash Before tax -(YTM),0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,April,Free Cash,FCF After  Tax w/o factoring and SCF -(MTM),-1122.92,Annual Balance Sheet Report 2022-2023.csv
+2022,May,Free Cash,FCF After  Tax w/o factoring and SCF -(MTM),-1981.96,Annual Balance Sheet Report 2022-2023.csv
+2022,June,Free Cash,FCF After  Tax w/o factoring and SCF -(MTM),236.61,Annual Balance Sheet Report 2022-2023.csv
+2022,July,Free Cash,FCF After  Tax w/o factoring and SCF -(MTM),-1461.67,Annual Balance Sheet Report 2022-2023.csv
+2022,August,Free Cash,FCF After  Tax w/o factoring and SCF -(MTM),-12785.8,Annual Balance Sheet Report 2022-2023.csv
+2022,September,Free Cash,FCF After  Tax w/o factoring and SCF -(MTM),-2112.09,Annual Balance Sheet Report 2022-2023.csv
+2022,October,Free Cash,FCF After  Tax w/o factoring and SCF -(MTM),-3841.12,Annual Balance Sheet Report 2022-2023.csv
+2022,November,Free Cash,FCF After  Tax w/o factoring and SCF -(MTM),-1716.81,Annual Balance Sheet Report 2022-2023.csv
+2022,December,Free Cash,FCF After  Tax w/o factoring and SCF -(MTM),-1700.13,Annual Balance Sheet Report 2022-2023.csv
+2023,January,Free Cash,FCF After  Tax w/o factoring and SCF -(MTM),702.07,Annual Balance Sheet Report 2022-2023.csv
+2023,February,Free Cash,FCF After  Tax w/o factoring and SCF -(MTM),-2998.02,Annual Balance Sheet Report 2022-2023.csv
+2023,March,Free Cash,FCF After  Tax w/o factoring and SCF -(MTM),0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,April,Free Cash,FCF After  Tax w/o factoring and SCF -(YTM),-1122.92,Annual Balance Sheet Report 2022-2023.csv
+2022,May,Free Cash,FCF After  Tax w/o factoring and SCF -(YTM),-3104.88,Annual Balance Sheet Report 2022-2023.csv
+2022,June,Free Cash,FCF After  Tax w/o factoring and SCF -(YTM),-2868.27,Annual Balance Sheet Report 2022-2023.csv
+2022,July,Free Cash,FCF After  Tax w/o factoring and SCF -(YTM),-4329.94,Annual Balance Sheet Report 2022-2023.csv
+2022,August,Free Cash,FCF After  Tax w/o factoring and SCF -(YTM),-17115.74,Annual Balance Sheet Report 2022-2023.csv
+2022,September,Free Cash,FCF After  Tax w/o factoring and SCF -(YTM),-19227.84,Annual Balance Sheet Report 2022-2023.csv
+2022,October,Free Cash,FCF After  Tax w/o factoring and SCF -(YTM),-23068.96,Annual Balance Sheet Report 2022-2023.csv
+2022,November,Free Cash,FCF After  Tax w/o factoring and SCF -(YTM),-24785.77,Annual Balance Sheet Report 2022-2023.csv
+2022,December,Free Cash,FCF After  Tax w/o factoring and SCF -(YTM),-26485.9,Annual Balance Sheet Report 2022-2023.csv
+2023,January,Free Cash,FCF After  Tax w/o factoring and SCF -(YTM),-25783.83,Annual Balance Sheet Report 2022-2023.csv
+2023,February,Free Cash,FCF After  Tax w/o factoring and SCF -(YTM),-28781.84,Annual Balance Sheet Report 2022-2023.csv
+2023,March,Free Cash,FCF After  Tax w/o factoring and SCF -(YTM),0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,April,Free Cash,"FCF (before finance cost, Factoring & SCF)-YTM",-1122.92,Annual Balance Sheet Report 2022-2023.csv
+2022,May,Free Cash,"FCF (before finance cost, Factoring & SCF)-YTM",-3104.88,Annual Balance Sheet Report 2022-2023.csv
+2022,June,Free Cash,"FCF (before finance cost, Factoring & SCF)-YTM",-2868.27,Annual Balance Sheet Report 2022-2023.csv
+2022,July,Free Cash,"FCF (before finance cost, Factoring & SCF)-YTM",-4329.94,Annual Balance Sheet Report 2022-2023.csv
+2022,August,Free Cash,"FCF (before finance cost, Factoring & SCF)-YTM",-17115.74,Annual Balance Sheet Report 2022-2023.csv
+2022,September,Free Cash,"FCF (before finance cost, Factoring & SCF)-YTM",-19227.84,Annual Balance Sheet Report 2022-2023.csv
+2022,October,Free Cash,"FCF (before finance cost, Factoring & SCF)-YTM",-23068.96,Annual Balance Sheet Report 2022-2023.csv
+2022,November,Free Cash,"FCF (before finance cost, Factoring & SCF)-YTM",-24785.77,Annual Balance Sheet Report 2022-2023.csv
+2022,December,Free Cash,"FCF (before finance cost, Factoring & SCF)-YTM",-26485.9,Annual Balance Sheet Report 2022-2023.csv
+2023,January,Free Cash,"FCF (before finance cost, Factoring & SCF)-YTM",-25783.83,Annual Balance Sheet Report 2022-2023.csv
+2023,February,Free Cash,"FCF (before finance cost, Factoring & SCF)-YTM",-28781.84,Annual Balance Sheet Report 2022-2023.csv
+2023,March,Free Cash,"FCF (before finance cost, Factoring & SCF)-YTM",0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,April,Free Cash,"FCF (before finance cost, Factoring & SCF)-MTM",-1122.92,Annual Balance Sheet Report 2022-2023.csv
+2022,May,Free Cash,"FCF (before finance cost, Factoring & SCF)-MTM",-1981.96,Annual Balance Sheet Report 2022-2023.csv
+2022,June,Free Cash,"FCF (before finance cost, Factoring & SCF)-MTM",236.61,Annual Balance Sheet Report 2022-2023.csv
+2022,July,Free Cash,"FCF (before finance cost, Factoring & SCF)-MTM",-1461.67,Annual Balance Sheet Report 2022-2023.csv
+2022,August,Free Cash,"FCF (before finance cost, Factoring & SCF)-MTM",-12785.8,Annual Balance Sheet Report 2022-2023.csv
+2022,September,Free Cash,"FCF (before finance cost, Factoring & SCF)-MTM",-2112.09,Annual Balance Sheet Report 2022-2023.csv
+2022,October,Free Cash,"FCF (before finance cost, Factoring & SCF)-MTM",-3841.12,Annual Balance Sheet Report 2022-2023.csv
+2022,November,Free Cash,"FCF (before finance cost, Factoring & SCF)-MTM",-1716.81,Annual Balance Sheet Report 2022-2023.csv
+2022,December,Free Cash,"FCF (before finance cost, Factoring & SCF)-MTM",-1700.13,Annual Balance Sheet Report 2022-2023.csv
+2023,January,Free Cash,"FCF (before finance cost, Factoring & SCF)-MTM",702.07,Annual Balance Sheet Report 2022-2023.csv
+2023,February,Free Cash,"FCF (before finance cost, Factoring & SCF)-MTM",-2998.02,Annual Balance Sheet Report 2022-2023.csv
+2023,March,Free Cash,"FCF (before finance cost, Factoring & SCF)-MTM",0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,April,Free Cash,"FCF (before finance cost, after Factoring & SCF)-YTM",-1122.92,Annual Balance Sheet Report 2022-2023.csv
+2022,May,Free Cash,"FCF (before finance cost, after Factoring & SCF)-YTM",-3104.88,Annual Balance Sheet Report 2022-2023.csv
+2022,June,Free Cash,"FCF (before finance cost, after Factoring & SCF)-YTM",-2868.27,Annual Balance Sheet Report 2022-2023.csv
+2022,July,Free Cash,"FCF (before finance cost, after Factoring & SCF)-YTM",-4329.94,Annual Balance Sheet Report 2022-2023.csv
+2022,August,Free Cash,"FCF (before finance cost, after Factoring & SCF)-YTM",-17115.74,Annual Balance Sheet Report 2022-2023.csv
+2022,September,Free Cash,"FCF (before finance cost, after Factoring & SCF)-YTM",-19227.84,Annual Balance Sheet Report 2022-2023.csv
+2022,October,Free Cash,"FCF (before finance cost, after Factoring & SCF)-YTM",-23068.96,Annual Balance Sheet Report 2022-2023.csv
+2022,November,Free Cash,"FCF (before finance cost, after Factoring & SCF)-YTM",-24785.77,Annual Balance Sheet Report 2022-2023.csv
+2022,December,Free Cash,"FCF (before finance cost, after Factoring & SCF)-YTM",-26485.9,Annual Balance Sheet Report 2022-2023.csv
+2023,January,Free Cash,"FCF (before finance cost, after Factoring & SCF)-YTM",-25783.83,Annual Balance Sheet Report 2022-2023.csv
+2023,February,Free Cash,"FCF (before finance cost, after Factoring & SCF)-YTM",-28781.84,Annual Balance Sheet Report 2022-2023.csv
+2023,March,Free Cash,"FCF (before finance cost, after Factoring & SCF)-YTM",0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,April,Free Cash,"FCF (before finance cost, after Factoring & SCF)-MTM",-1122.92,Annual Balance Sheet Report 2022-2023.csv
+2022,May,Free Cash,"FCF (before finance cost, after Factoring & SCF)-MTM",-1981.96,Annual Balance Sheet Report 2022-2023.csv
+2022,June,Free Cash,"FCF (before finance cost, after Factoring & SCF)-MTM",236.61,Annual Balance Sheet Report 2022-2023.csv
+2022,July,Free Cash,"FCF (before finance cost, after Factoring & SCF)-MTM",-1461.67,Annual Balance Sheet Report 2022-2023.csv
+2022,August,Free Cash,"FCF (before finance cost, after Factoring & SCF)-MTM",-12785.8,Annual Balance Sheet Report 2022-2023.csv
+2022,September,Free Cash,"FCF (before finance cost, after Factoring & SCF)-MTM",-2112.09,Annual Balance Sheet Report 2022-2023.csv
+2022,October,Free Cash,"FCF (before finance cost, after Factoring & SCF)-MTM",-3841.12,Annual Balance Sheet Report 2022-2023.csv
+2022,November,Free Cash,"FCF (before finance cost, after Factoring & SCF)-MTM",-1716.81,Annual Balance Sheet Report 2022-2023.csv
+2022,December,Free Cash,"FCF (before finance cost, after Factoring & SCF)-MTM",-1700.13,Annual Balance Sheet Report 2022-2023.csv
+2023,January,Free Cash,"FCF (before finance cost, after Factoring & SCF)-MTM",702.07,Annual Balance Sheet Report 2022-2023.csv
+2023,February,Free Cash,"FCF (before finance cost, after Factoring & SCF)-MTM",-2998.02,Annual Balance Sheet Report 2022-2023.csv
+2023,March,Free Cash,"FCF (before finance cost, after Factoring & SCF)-MTM",0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,April,Free Cash,Free Cash Before Tax - Mar-Actual-(MTM),-1122.92,Annual Balance Sheet Report 2022-2023.csv
+2022,May,Free Cash,Free Cash Before Tax - Mar-Actual-(MTM),-1981.96,Annual Balance Sheet Report 2022-2023.csv
+2022,June,Free Cash,Free Cash Before Tax - Mar-Actual-(MTM),236.61,Annual Balance Sheet Report 2022-2023.csv
+2022,July,Free Cash,Free Cash Before Tax - Mar-Actual-(MTM),-1461.67,Annual Balance Sheet Report 2022-2023.csv
+2022,August,Free Cash,Free Cash Before Tax - Mar-Actual-(MTM),-12785.8,Annual Balance Sheet Report 2022-2023.csv
+2022,September,Free Cash,Free Cash Before Tax - Mar-Actual-(MTM),-2112.09,Annual Balance Sheet Report 2022-2023.csv
+2022,October,Free Cash,Free Cash Before Tax - Mar-Actual-(MTM),-3841.12,Annual Balance Sheet Report 2022-2023.csv
+2022,November,Free Cash,Free Cash Before Tax - Mar-Actual-(MTM),-1716.81,Annual Balance Sheet Report 2022-2023.csv
+2022,December,Free Cash,Free Cash Before Tax - Mar-Actual-(MTM),-1700.13,Annual Balance Sheet Report 2022-2023.csv
+2023,January,Free Cash,Free Cash Before Tax - Mar-Actual-(MTM),702.07,Annual Balance Sheet Report 2022-2023.csv
+2023,February,Free Cash,Free Cash Before Tax - Mar-Actual-(MTM),-2998.02,Annual Balance Sheet Report 2022-2023.csv
+2023,March,Free Cash,Free Cash Before Tax - Mar-Actual-(MTM),0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,April,Free Cash,Free Cash Before Tax - Mar-Actual-(YTM),-1122.92,Annual Balance Sheet Report 2022-2023.csv
+2022,May,Free Cash,Free Cash Before Tax - Mar-Actual-(YTM),-3104.88,Annual Balance Sheet Report 2022-2023.csv
+2022,June,Free Cash,Free Cash Before Tax - Mar-Actual-(YTM),-2868.27,Annual Balance Sheet Report 2022-2023.csv
+2022,July,Free Cash,Free Cash Before Tax - Mar-Actual-(YTM),-4329.94,Annual Balance Sheet Report 2022-2023.csv
+2022,August,Free Cash,Free Cash Before Tax - Mar-Actual-(YTM),-17115.74,Annual Balance Sheet Report 2022-2023.csv
+2022,September,Free Cash,Free Cash Before Tax - Mar-Actual-(YTM),-19227.84,Annual Balance Sheet Report 2022-2023.csv
+2022,October,Free Cash,Free Cash Before Tax - Mar-Actual-(YTM),-23068.96,Annual Balance Sheet Report 2022-2023.csv
+2022,November,Free Cash,Free Cash Before Tax - Mar-Actual-(YTM),-24785.77,Annual Balance Sheet Report 2022-2023.csv
+2022,December,Free Cash,Free Cash Before Tax - Mar-Actual-(YTM),-26485.9,Annual Balance Sheet Report 2022-2023.csv
+2023,January,Free Cash,Free Cash Before Tax - Mar-Actual-(YTM),-25783.83,Annual Balance Sheet Report 2022-2023.csv
+2023,February,Free Cash,Free Cash Before Tax - Mar-Actual-(YTM),-28781.84,Annual Balance Sheet Report 2022-2023.csv
+2023,March,Free Cash,Free Cash Before Tax - Mar-Actual-(YTM),0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,April,Free Cash,Capex -Calculated (MTM),47.95,Annual Balance Sheet Report 2022-2023.csv
+2022,May,Free Cash,Capex -Calculated (MTM),92.89,Annual Balance Sheet Report 2022-2023.csv
+2022,June,Free Cash,Capex -Calculated (MTM),-36708.53,Annual Balance Sheet Report 2022-2023.csv
+2022,July,Free Cash,Capex -Calculated (MTM),1009.47,Annual Balance Sheet Report 2022-2023.csv
+2022,August,Free Cash,Capex -Calculated (MTM),36836.72,Annual Balance Sheet Report 2022-2023.csv
+2022,September,Free Cash,Capex -Calculated (MTM),408.06,Annual Balance Sheet Report 2022-2023.csv
+2022,October,Free Cash,Capex -Calculated (MTM),588.4,Annual Balance Sheet Report 2022-2023.csv
+2022,November,Free Cash,Capex -Calculated (MTM),1107.23,Annual Balance Sheet Report 2022-2023.csv
+2022,December,Free Cash,Capex -Calculated (MTM),-60.6,Annual Balance Sheet Report 2022-2023.csv
+2023,January,Free Cash,Capex -Calculated (MTM),754.03,Annual Balance Sheet Report 2022-2023.csv
+2023,February,Free Cash,Capex -Calculated (MTM),4348.83,Annual Balance Sheet Report 2022-2023.csv
+2023,March,Free Cash,Capex -Calculated (MTM),2001.64,Annual Balance Sheet Report 2022-2023.csv
+2022,April,Free Cash,Capex -Calculated (YTM),47.95,Annual Balance Sheet Report 2022-2023.csv
+2022,May,Free Cash,Capex -Calculated (YTM),140.84,Annual Balance Sheet Report 2022-2023.csv
+2022,June,Free Cash,Capex -Calculated (YTM),-36567.69,Annual Balance Sheet Report 2022-2023.csv
+2022,July,Free Cash,Capex -Calculated (YTM),-35558.21,Annual Balance Sheet Report 2022-2023.csv
+2022,August,Free Cash,Capex -Calculated (YTM),1278.51,Annual Balance Sheet Report 2022-2023.csv
+2022,September,Free Cash,Capex -Calculated (YTM),1686.57,Annual Balance Sheet Report 2022-2023.csv
+2022,October,Free Cash,Capex -Calculated (YTM),2274.97,Annual Balance Sheet Report 2022-2023.csv
+2022,November,Free Cash,Capex -Calculated (YTM),3382.2,Annual Balance Sheet Report 2022-2023.csv
+2022,December,Free Cash,Capex -Calculated (YTM),3321.6,Annual Balance Sheet Report 2022-2023.csv
+2023,January,Free Cash,Capex -Calculated (YTM),4075.64,Annual Balance Sheet Report 2022-2023.csv
+2023,February,Free Cash,Capex -Calculated (YTM),8424.47,Annual Balance Sheet Report 2022-2023.csv
+2023,March,Free Cash,Capex -Calculated (YTM),10426.11,Annual Balance Sheet Report 2022-2023.csv
+2022,April,Free Cash,Capex(MTM),143.16,Annual Balance Sheet Report 2022-2023.csv
+2022,May,Free Cash,Capex(MTM),154.33,Annual Balance Sheet Report 2022-2023.csv
+2022,June,Free Cash,Capex(MTM),0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,July,Free Cash,Capex(MTM),0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,August,Free Cash,Capex(MTM),148.75,Annual Balance Sheet Report 2022-2023.csv
+2022,September,Free Cash,Capex(MTM),442.68,Annual Balance Sheet Report 2022-2023.csv
+2022,October,Free Cash,Capex(MTM),533.5,Annual Balance Sheet Report 2022-2023.csv
+2022,November,Free Cash,Capex(MTM),792.72,Annual Balance Sheet Report 2022-2023.csv
+2022,December,Free Cash,Capex(MTM),209.04,Annual Balance Sheet Report 2022-2023.csv
+2023,January,Free Cash,Capex(MTM),618.44,Annual Balance Sheet Report 2022-2023.csv
+2023,February,Free Cash,Capex(MTM),2418.66,Annual Balance Sheet Report 2022-2023.csv
+2023,March,Free Cash,Capex(MTM),1259.92,Annual Balance Sheet Report 2022-2023.csv
+2022,April,Free Cash,Capex (YTM),143.16,Annual Balance Sheet Report 2022-2023.csv
+2022,May,Free Cash,Capex (YTM),297.49,Annual Balance Sheet Report 2022-2023.csv
+2022,June,Free Cash,Capex (YTM),297.49,Annual Balance Sheet Report 2022-2023.csv
+2022,July,Free Cash,Capex (YTM),297.49,Annual Balance Sheet Report 2022-2023.csv
+2022,August,Free Cash,Capex (YTM),446.24,Annual Balance Sheet Report 2022-2023.csv
+2022,September,Free Cash,Capex (YTM),888.93,Annual Balance Sheet Report 2022-2023.csv
+2022,October,Free Cash,Capex (YTM),1422.42,Annual Balance Sheet Report 2022-2023.csv
+2022,November,Free Cash,Capex (YTM),2215.15,Annual Balance Sheet Report 2022-2023.csv
+2022,December,Free Cash,Capex (YTM),2424.19,Annual Balance Sheet Report 2022-2023.csv
+2023,January,Free Cash,Capex (YTM),3042.63,Annual Balance Sheet Report 2022-2023.csv
+2023,February,Free Cash,Capex (YTM),5461.29,Annual Balance Sheet Report 2022-2023.csv
+2023,March,Free Cash,Capex (YTM),6721.21,Annual Balance Sheet Report 2022-2023.csv
+2022,April,Free Cash,Working Capital Changes,216.59,Annual Balance Sheet Report 2022-2023.csv
+2022,May,Free Cash,Working Capital Changes,338.93,Annual Balance Sheet Report 2022-2023.csv
+2022,June,Free Cash,Working Capital Changes,11031.89,Annual Balance Sheet Report 2022-2023.csv
+2022,July,Free Cash,Working Capital Changes,11031.89,Annual Balance Sheet Report 2022-2023.csv
+2022,August,Free Cash,Working Capital Changes,-46.13,Annual Balance Sheet Report 2022-2023.csv
+2022,September,Free Cash,Working Capital Changes,-158.92,Annual Balance Sheet Report 2022-2023.csv
+2022,October,Free Cash,Working Capital Changes,-763.04,Annual Balance Sheet Report 2022-2023.csv
+2022,November,Free Cash,Working Capital Changes,-236.84,Annual Balance Sheet Report 2022-2023.csv
+2022,December,Free Cash,Working Capital Changes,236.26,Annual Balance Sheet Report 2022-2023.csv
+2023,January,Free Cash,Working Capital Changes,-36.8,Annual Balance Sheet Report 2022-2023.csv
+2023,February,Free Cash,Working Capital Changes,106.64,Annual Balance Sheet Report 2022-2023.csv
+2023,March,Free Cash,Working Capital Changes,570.41,Annual Balance Sheet Report 2022-2023.csv
+2022,April,Free Cash,(Increase)/Decrease in Inventory,216.59,Annual Balance Sheet Report 2022-2023.csv
+2022,May,Free Cash,(Increase)/Decrease in Inventory,338.93,Annual Balance Sheet Report 2022-2023.csv
+2022,June,Free Cash,(Increase)/Decrease in Inventory,11031.89,Annual Balance Sheet Report 2022-2023.csv
+2022,July,Free Cash,(Increase)/Decrease in Inventory,11031.89,Annual Balance Sheet Report 2022-2023.csv
+2022,August,Free Cash,(Increase)/Decrease in Inventory,-46.13,Annual Balance Sheet Report 2022-2023.csv
+2022,September,Free Cash,(Increase)/Decrease in Inventory,-158.92,Annual Balance Sheet Report 2022-2023.csv
+2022,October,Free Cash,(Increase)/Decrease in Inventory,-763.04,Annual Balance Sheet Report 2022-2023.csv
+2022,November,Free Cash,(Increase)/Decrease in Inventory,-236.84,Annual Balance Sheet Report 2022-2023.csv
+2022,December,Free Cash,(Increase)/Decrease in Inventory,236.26,Annual Balance Sheet Report 2022-2023.csv
+2023,January,Free Cash,(Increase)/Decrease in Inventory,-36.8,Annual Balance Sheet Report 2022-2023.csv
+2023,February,Free Cash,(Increase)/Decrease in Inventory,106.64,Annual Balance Sheet Report 2022-2023.csv
+2023,March,Free Cash,(Increase)/Decrease in Inventory,570.41,Annual Balance Sheet Report 2022-2023.csv
+2022,April,Free Cash,FCF w/o Factoring & SCF,-811.12,Annual Balance Sheet Report 2022-2023.csv
+2022,May,Free Cash,FCF w/o Factoring & SCF,-2609.3,Annual Balance Sheet Report 2022-2023.csv
+2022,June,Free Cash,FCF w/o Factoring & SCF,43531.54,Annual Balance Sheet Report 2022-2023.csv
+2022,July,Free Cash,FCF w/o Factoring & SCF,41060.41,Annual Balance Sheet Report 2022-2023.csv
+2022,August,Free Cash,FCF w/o Factoring & SCF,-8413.37,Annual Balance Sheet Report 2022-2023.csv
+2022,September,Free Cash,FCF w/o Factoring & SCF,-10490.83,Annual Balance Sheet Report 2022-2023.csv
+2022,October,Free Cash,FCF w/o Factoring & SCF,-14386.86,Annual Balance Sheet Report 2022-2023.csv
+2022,November,Free Cash,FCF w/o Factoring & SCF,-16418.18,Annual Balance Sheet Report 2022-2023.csv
+2022,December,Free Cash,FCF w/o Factoring & SCF,-17848.67,Annual Balance Sheet Report 2022-2023.csv
+2023,January,Free Cash,FCF w/o Factoring & SCF,-17282.19,Annual Balance Sheet Report 2022-2023.csv
+2023,February,Free Cash,FCF w/o Factoring & SCF,-22210.38,Annual Balance Sheet Report 2022-2023.csv
+2023,March,Free Cash,FCF w/o Factoring & SCF,-22420.55,Annual Balance Sheet Report 2022-2023.csv
+2022,April,Free Cash,FCF w/o Factoring & SCF (without actualized Capex),-906.33,Annual Balance Sheet Report 2022-2023.csv
+2022,May,Free Cash,FCF w/o Factoring & SCF (without actualized Capex),-2765.95,Annual Balance Sheet Report 2022-2023.csv
+2022,June,Free Cash,FCF w/o Factoring & SCF (without actualized Capex),6666.37,Annual Balance Sheet Report 2022-2023.csv
+2022,July,Free Cash,FCF w/o Factoring & SCF (without actualized Capex),5204.71,Annual Balance Sheet Report 2022-2023.csv
+2022,August,Free Cash,FCF w/o Factoring & SCF (without actualized Capex),-7581.1,Annual Balance Sheet Report 2022-2023.csv
+2022,September,Free Cash,FCF w/o Factoring & SCF (without actualized Capex),-9693.19,Annual Balance Sheet Report 2022-2023.csv
+2022,October,Free Cash,FCF w/o Factoring & SCF (without actualized Capex),-13534.31,Annual Balance Sheet Report 2022-2023.csv
+2022,November,Free Cash,FCF w/o Factoring & SCF (without actualized Capex),-15251.12,Annual Balance Sheet Report 2022-2023.csv
+2022,December,Free Cash,FCF w/o Factoring & SCF (without actualized Capex),-16951.25,Annual Balance Sheet Report 2022-2023.csv
+2023,January,Free Cash,FCF w/o Factoring & SCF (without actualized Capex),-16249.18,Annual Balance Sheet Report 2022-2023.csv
+2023,February,Free Cash,FCF w/o Factoring & SCF (without actualized Capex),-19247.2,Annual Balance Sheet Report 2022-2023.csv
+2023,March,Free Cash,FCF w/o Factoring & SCF (without actualized Capex),-18715.64,Annual Balance Sheet Report 2022-2023.csv
+2022,April,Free Cash,Free Cash Flow after tax,-811.12,Annual Balance Sheet Report 2022-2023.csv
+2022,May,Free Cash,Free Cash Flow after tax,-2609.3,Annual Balance Sheet Report 2022-2023.csv
+2022,June,Free Cash,Free Cash Flow after tax,43531.54,Annual Balance Sheet Report 2022-2023.csv
+2022,July,Free Cash,Free Cash Flow after tax,41060.41,Annual Balance Sheet Report 2022-2023.csv
+2022,August,Free Cash,Free Cash Flow after tax,-8413.37,Annual Balance Sheet Report 2022-2023.csv
+2022,September,Free Cash,Free Cash Flow after tax,-10490.83,Annual Balance Sheet Report 2022-2023.csv
+2022,October,Free Cash,Free Cash Flow after tax,-14386.86,Annual Balance Sheet Report 2022-2023.csv
+2022,November,Free Cash,Free Cash Flow after tax,-16418.18,Annual Balance Sheet Report 2022-2023.csv
+2022,December,Free Cash,Free Cash Flow after tax,-17848.67,Annual Balance Sheet Report 2022-2023.csv
+2023,January,Free Cash,Free Cash Flow after tax,-17282.19,Annual Balance Sheet Report 2022-2023.csv
+2023,February,Free Cash,Free Cash Flow after tax,-22210.38,Annual Balance Sheet Report 2022-2023.csv
+2023,March,Free Cash,Free Cash Flow after tax,-22420.55,Annual Balance Sheet Report 2022-2023.csv
+2022,April,Free Cash,"FCF w/o Interest, Factoring & SCF",-811.12,Annual Balance Sheet Report 2022-2023.csv
+2022,May,Free Cash,"FCF w/o Interest, Factoring & SCF",-2609.3,Annual Balance Sheet Report 2022-2023.csv
+2022,June,Free Cash,"FCF w/o Interest, Factoring & SCF",43531.54,Annual Balance Sheet Report 2022-2023.csv
+2022,July,Free Cash,"FCF w/o Interest, Factoring & SCF",41060.41,Annual Balance Sheet Report 2022-2023.csv
+2022,August,Free Cash,"FCF w/o Interest, Factoring & SCF",-8413.37,Annual Balance Sheet Report 2022-2023.csv
+2022,September,Free Cash,"FCF w/o Interest, Factoring & SCF",-10490.83,Annual Balance Sheet Report 2022-2023.csv
+2022,October,Free Cash,"FCF w/o Interest, Factoring & SCF",-14386.86,Annual Balance Sheet Report 2022-2023.csv
+2022,November,Free Cash,"FCF w/o Interest, Factoring & SCF",-16418.18,Annual Balance Sheet Report 2022-2023.csv
+2022,December,Free Cash,"FCF w/o Interest, Factoring & SCF",-17848.67,Annual Balance Sheet Report 2022-2023.csv
+2023,January,Free Cash,"FCF w/o Interest, Factoring & SCF",-17282.19,Annual Balance Sheet Report 2022-2023.csv
+2023,February,Free Cash,"FCF w/o Interest, Factoring & SCF",-22210.38,Annual Balance Sheet Report 2022-2023.csv
+2023,March,Free Cash,"FCF w/o Interest, Factoring & SCF",-22420.55,Annual Balance Sheet Report 2022-2023.csv
+2022,April,Free Cash,Free Cash Flow before WC (w.o Interest),-1027.71,Annual Balance Sheet Report 2022-2023.csv
+2022,May,Free Cash,Free Cash Flow before WC (w.o Interest),-2948.24,Annual Balance Sheet Report 2022-2023.csv
+2022,June,Free Cash,Free Cash Flow before WC (w.o Interest),32499.66,Annual Balance Sheet Report 2022-2023.csv
+2022,July,Free Cash,Free Cash Flow before WC (w.o Interest),30028.52,Annual Balance Sheet Report 2022-2023.csv
+2022,August,Free Cash,Free Cash Flow before WC (w.o Interest),-8367.24,Annual Balance Sheet Report 2022-2023.csv
+2022,September,Free Cash,Free Cash Flow before WC (w.o Interest),-10331.92,Annual Balance Sheet Report 2022-2023.csv
+2022,October,Free Cash,Free Cash Flow before WC (w.o Interest),-13623.82,Annual Balance Sheet Report 2022-2023.csv
+2022,November,Free Cash,Free Cash Flow before WC (w.o Interest),-16181.34,Annual Balance Sheet Report 2022-2023.csv
+2022,December,Free Cash,Free Cash Flow before WC (w.o Interest),-18084.93,Annual Balance Sheet Report 2022-2023.csv
+2023,January,Free Cash,Free Cash Flow before WC (w.o Interest),-17245.38,Annual Balance Sheet Report 2022-2023.csv
+2023,February,Free Cash,Free Cash Flow before WC (w.o Interest),-22317.02,Annual Balance Sheet Report 2022-2023.csv
+2023,March,Free Cash,Free Cash Flow before WC (w.o Interest),-22990.96,Annual Balance Sheet Report 2022-2023.csv
+2022,April,Other Financials,Equity and Liabilities (Total Sources Of Funds),-119293.15,Annual Balance Sheet Report 2022-2023.csv
+2022,May,Other Financials,Equity and Liabilities (Total Sources Of Funds),-121534.46,Annual Balance Sheet Report 2022-2023.csv
+2022,June,Other Financials,Equity and Liabilities (Total Sources Of Funds),-123206.95,Annual Balance Sheet Report 2022-2023.csv
+2022,July,Other Financials,Equity and Liabilities (Total Sources Of Funds),-125102.95,Annual Balance Sheet Report 2022-2023.csv
+2022,August,Other Financials,Equity and Liabilities (Total Sources Of Funds),-127090.59,Annual Balance Sheet Report 2022-2023.csv
+2022,September,Other Financials,Equity and Liabilities (Total Sources Of Funds),-131065.82,Annual Balance Sheet Report 2022-2023.csv
+2022,October,Other Financials,Equity and Liabilities (Total Sources Of Funds),-132211.0,Annual Balance Sheet Report 2022-2023.csv
+2022,November,Other Financials,Equity and Liabilities (Total Sources Of Funds),-134090.21,Annual Balance Sheet Report 2022-2023.csv
+2022,December,Other Financials,Equity and Liabilities (Total Sources Of Funds),-136487.04,Annual Balance Sheet Report 2022-2023.csv
+2023,January,Other Financials,Equity and Liabilities (Total Sources Of Funds),-135326.67,Annual Balance Sheet Report 2022-2023.csv
+2023,February,Other Financials,Equity and Liabilities (Total Sources Of Funds),-136484.32,Annual Balance Sheet Report 2022-2023.csv
+2023,March,Other Financials,Equity and Liabilities (Total Sources Of Funds),-135621.99,Annual Balance Sheet Report 2022-2023.csv
+2022,April,Other Financials,Profit For Current Year (YTM),-1392.68,Annual Balance Sheet Report 2022-2023.csv
+2022,May,Other Financials,Profit For Current Year (YTM),-3633.99,Annual Balance Sheet Report 2022-2023.csv
+2022,June,Other Financials,Profit For Current Year (YTM),-5306.48,Annual Balance Sheet Report 2022-2023.csv
+2022,July,Other Financials,Profit For Current Year (YTM),-7202.48,Annual Balance Sheet Report 2022-2023.csv
+2022,August,Other Financials,Profit For Current Year (YTM),-9190.12,Annual Balance Sheet Report 2022-2023.csv
+2022,September,Other Financials,Profit For Current Year (YTM),-11177.74,Annual Balance Sheet Report 2022-2023.csv
+2022,October,Other Financials,Profit For Current Year (YTM),-14310.53,Annual Balance Sheet Report 2022-2023.csv
+2022,November,Other Financials,Profit For Current Year (YTM),-16189.74,Annual Balance Sheet Report 2022-2023.csv
+2022,December,Other Financials,Profit For Current Year (YTM),-18586.57,Annual Balance Sheet Report 2022-2023.csv
+2023,January,Other Financials,Profit For Current Year (YTM),-17426.2,Annual Balance Sheet Report 2022-2023.csv
+2023,February,Other Financials,Profit For Current Year (YTM),-18583.85,Annual Balance Sheet Report 2022-2023.csv
+2023,March,Other Financials,Profit For Current Year (YTM),-17721.52,Annual Balance Sheet Report 2022-2023.csv
+2022,April,Other Financials,Profit and Loss Opening,-117900.47,Annual Balance Sheet Report 2022-2023.csv
+2022,May,Other Financials,Profit and Loss Opening,-117900.47,Annual Balance Sheet Report 2022-2023.csv
+2022,June,Other Financials,Profit and Loss Opening,-117900.47,Annual Balance Sheet Report 2022-2023.csv
+2022,July,Other Financials,Profit and Loss Opening,-117900.47,Annual Balance Sheet Report 2022-2023.csv
+2022,August,Other Financials,Profit and Loss Opening,-117900.47,Annual Balance Sheet Report 2022-2023.csv
+2022,September,Other Financials,Profit and Loss Opening,-119888.08,Annual Balance Sheet Report 2022-2023.csv
+2022,October,Other Financials,Profit and Loss Opening,-117900.47,Annual Balance Sheet Report 2022-2023.csv
+2022,November,Other Financials,Profit and Loss Opening,-117900.47,Annual Balance Sheet Report 2022-2023.csv
+2022,December,Other Financials,Profit and Loss Opening,-117900.47,Annual Balance Sheet Report 2022-2023.csv
+2023,January,Other Financials,Profit and Loss Opening,-117900.47,Annual Balance Sheet Report 2022-2023.csv
+2023,February,Other Financials,Profit and Loss Opening,-117900.47,Annual Balance Sheet Report 2022-2023.csv
+2023,March,Other Financials,Profit and Loss Opening,-117900.47,Annual Balance Sheet Report 2022-2023.csv
+2022,April,Other Financials,Total Assets (Application Of Funds),1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,May,Other Financials,Total Assets (Application Of Funds),1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,June,Other Financials,Total Assets (Application Of Funds),1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,July,Other Financials,Total Assets (Application Of Funds),1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,August,Other Financials,Total Assets (Application Of Funds),1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,September,Other Financials,Total Assets (Application Of Funds),1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,October,Other Financials,Total Assets (Application Of Funds),1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,November,Other Financials,Total Assets (Application Of Funds),1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,December,Other Financials,Total Assets (Application Of Funds),1497.24,Annual Balance Sheet Report 2022-2023.csv
+2023,January,Other Financials,Total Assets (Application Of Funds),1497.24,Annual Balance Sheet Report 2022-2023.csv
+2023,February,Other Financials,Total Assets (Application Of Funds),1497.24,Annual Balance Sheet Report 2022-2023.csv
+2023,March,Other Financials,Total Assets (Application Of Funds),1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,April,Other Financials,Working Capital,1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,May,Other Financials,Working Capital,1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,June,Other Financials,Working Capital,1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,July,Other Financials,Working Capital,1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,August,Other Financials,Working Capital,11078.01,Annual Balance Sheet Report 2022-2023.csv
+2022,September,Other Financials,Working Capital,11190.8,Annual Balance Sheet Report 2022-2023.csv
+2022,October,Other Financials,Working Capital,11794.93,Annual Balance Sheet Report 2022-2023.csv
+2022,November,Other Financials,Working Capital,11268.72,Annual Balance Sheet Report 2022-2023.csv
+2022,December,Other Financials,Working Capital,10795.62,Annual Balance Sheet Report 2022-2023.csv
+2023,January,Other Financials,Working Capital,11068.69,Annual Balance Sheet Report 2022-2023.csv
+2023,February,Other Financials,Working Capital,10925.24,Annual Balance Sheet Report 2022-2023.csv
+2023,March,Other Financials,Working Capital,10461.48,Annual Balance Sheet Report 2022-2023.csv
+2022,April,Other Financials,Working Capital w/o Cash,1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,May,Other Financials,Working Capital w/o Cash,1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,June,Other Financials,Working Capital w/o Cash,0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,July,Other Financials,Working Capital w/o Cash,0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,August,Other Financials,Working Capital w/o Cash,11078.01,Annual Balance Sheet Report 2022-2023.csv
+2022,September,Other Financials,Working Capital w/o Cash,11190.8,Annual Balance Sheet Report 2022-2023.csv
+2022,October,Other Financials,Working Capital w/o Cash,11794.93,Annual Balance Sheet Report 2022-2023.csv
+2022,November,Other Financials,Working Capital w/o Cash,11268.72,Annual Balance Sheet Report 2022-2023.csv
+2022,December,Other Financials,Working Capital w/o Cash,10795.62,Annual Balance Sheet Report 2022-2023.csv
+2023,January,Other Financials,Working Capital w/o Cash,11068.69,Annual Balance Sheet Report 2022-2023.csv
+2023,February,Other Financials,Working Capital w/o Cash,10925.24,Annual Balance Sheet Report 2022-2023.csv
+2023,March,Other Financials,Working Capital w/o Cash,10461.48,Annual Balance Sheet Report 2022-2023.csv
+2022,April,Other Financials,Trade Working Capital without factoring & SCF,10815.29,Annual Balance Sheet Report 2022-2023.csv
+2022,May,Other Financials,Trade Working Capital without factoring & SCF,10692.95,Annual Balance Sheet Report 2022-2023.csv
+2022,June,Other Financials,Trade Working Capital without factoring & SCF,0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,July,Other Financials,Trade Working Capital without factoring & SCF,0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,August,Other Financials,Trade Working Capital without factoring & SCF,0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,September,Other Financials,Trade Working Capital without factoring & SCF,0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,October,Other Financials,Trade Working Capital without factoring & SCF,0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,November,Other Financials,Trade Working Capital without factoring & SCF,0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,December,Other Financials,Trade Working Capital without factoring & SCF,0.0,Annual Balance Sheet Report 2022-2023.csv
+2023,January,Other Financials,Trade Working Capital without factoring & SCF,0.0,Annual Balance Sheet Report 2022-2023.csv
+2023,February,Other Financials,Trade Working Capital without factoring & SCF,0.0,Annual Balance Sheet Report 2022-2023.csv
+2023,March,Other Financials,Trade Working Capital without factoring & SCF,0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,April,Other Financials,Average Net Fixed Assets,37358.25,Annual Balance Sheet Report 2022-2023.csv
+2022,May,Other Financials,Average Net Fixed Assets,37197.86,Annual Balance Sheet Report 2022-2023.csv
+2022,June,Other Financials,Average Net Fixed Assets,18770.37,Annual Balance Sheet Report 2022-2023.csv
+2022,July,Other Financials,Average Net Fixed Assets,18770.37,Annual Balance Sheet Report 2022-2023.csv
+2022,August,Other Financials,Average Net Fixed Assets,37108.23,Annual Balance Sheet Report 2022-2023.csv
+2022,September,Other Financials,Average Net Fixed Assets,37084.79,Annual Balance Sheet Report 2022-2023.csv
+2022,October,Other Financials,Average Net Fixed Assets,37106.12,Annual Balance Sheet Report 2022-2023.csv
+2022,November,Other Financials,Average Net Fixed Assets,37257.24,Annual Balance Sheet Report 2022-2023.csv
+2022,December,Other Financials,Average Net Fixed Assets,37116.3,Annual Balance Sheet Report 2022-2023.csv
+2023,January,Other Financials,Average Net Fixed Assets,37178.05,Annual Balance Sheet Report 2022-2023.csv
+2023,February,Other Financials,Average Net Fixed Assets,38138.1,Annual Balance Sheet Report 2022-2023.csv
+2023,March,Other Financials,Average Net Fixed Assets,0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,April,Other Financials,Fixed Assets Turnover rato (Net),1.2,Annual Balance Sheet Report 2022-2023.csv
+2022,May,Other Financials,Fixed Assets Turnover rato (Net),1.78,Annual Balance Sheet Report 2022-2023.csv
+2022,June,Other Financials,Fixed Assets Turnover rato (Net),4.25,Annual Balance Sheet Report 2022-2023.csv
+2022,July,Other Financials,Fixed Assets Turnover rato (Net),4.56,Annual Balance Sheet Report 2022-2023.csv
+2022,August,Other Financials,Fixed Assets Turnover rato (Net),2.34,Annual Balance Sheet Report 2022-2023.csv
+2022,September,Other Financials,Fixed Assets Turnover rato (Net),2.6,Annual Balance Sheet Report 2022-2023.csv
+2022,October,Other Financials,Fixed Assets Turnover rato (Net),2.71,Annual Balance Sheet Report 2022-2023.csv
+2022,November,Other Financials,Fixed Assets Turnover rato (Net),2.87,Annual Balance Sheet Report 2022-2023.csv
+2022,December,Other Financials,Fixed Assets Turnover rato (Net),2.98,Annual Balance Sheet Report 2022-2023.csv
+2023,January,Other Financials,Fixed Assets Turnover rato (Net),39.8,Annual Balance Sheet Report 2022-2023.csv
+2023,February,Other Financials,Fixed Assets Turnover rato (Net),21.78,Annual Balance Sheet Report 2022-2023.csv
+2023,March,Other Financials,Fixed Assets Turnover rato (Net),0.0,Annual Balance Sheet Report 2022-2023.csv
+2022,April,Other Financials,Effective Net Debt,-1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,May,Other Financials,Effective Net Debt,-1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,June,Other Financials,Effective Net Debt,-1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,July,Other Financials,Effective Net Debt,-1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,August,Other Financials,Effective Net Debt,-1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,September,Other Financials,Effective Net Debt,-1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,October,Other Financials,Effective Net Debt,-1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,November,Other Financials,Effective Net Debt,-1497.24,Annual Balance Sheet Report 2022-2023.csv
+2022,December,Other Financials,Effective Net Debt,-1497.24,Annual Balance Sheet Report 2022-2023.csv
+2023,January,Other Financials,Effective Net Debt,-1497.24,Annual Balance Sheet Report 2022-2023.csv
+2023,February,Other Financials,Effective Net Debt,-1497.24,Annual Balance Sheet Report 2022-2023.csv
+2023,March,Other Financials,Effective Net Debt,-1497.24,Annual Balance Sheet Report 2022-2023.csv
+2023,April,Income,Total Revenue,14194.9,Annual Revenue Report 2023-2024.csv
+2023,May,Income,Total Revenue,14642.83,Annual Revenue Report 2023-2024.csv
+2023,June,Income,Total Revenue,16803.01,Annual Revenue Report 2023-2024.csv
+2023,July,Income,Total Revenue,15307.68,Annual Revenue Report 2023-2024.csv
+2023,August,Income,Total Revenue,9067.83,Annual Revenue Report 2023-2024.csv
+2023,September,Income,Total Revenue,16515.27,Annual Revenue Report 2023-2024.csv
+2023,October,Income,Total Revenue,11973.36,Annual Revenue Report 2023-2024.csv
+2023,November,Income,Total Revenue,28271.3,Annual Revenue Report 2023-2024.csv
+2023,December,Income,Total Revenue,10090.26,Annual Revenue Report 2023-2024.csv
+2024,January,Income,Total Revenue,7618.64,Annual Revenue Report 2023-2024.csv
+2024,February,Income,Total Revenue,9453.5,Annual Revenue Report 2023-2024.csv
+2024,March,Income,Total Revenue,11978.1,Annual Revenue Report 2023-2024.csv
+2023,April,Direct Expenses,Total Direct Cost,12130.11,Annual Revenue Report 2023-2024.csv
+2023,May,Direct Expenses,Total Direct Cost,12211.3,Annual Revenue Report 2023-2024.csv
+2023,June,Direct Expenses,Total Direct Cost,13196.79,Annual Revenue Report 2023-2024.csv
+2023,July,Direct Expenses,Total Direct Cost,12307.38,Annual Revenue Report 2023-2024.csv
+2023,August,Direct Expenses,Total Direct Cost,7991.11,Annual Revenue Report 2023-2024.csv
+2023,September,Direct Expenses,Total Direct Cost,13188.68,Annual Revenue Report 2023-2024.csv
+2023,October,Direct Expenses,Total Direct Cost,9959.52,Annual Revenue Report 2023-2024.csv
+2023,November,Direct Expenses,Total Direct Cost,10739.9,Annual Revenue Report 2023-2024.csv
+2023,December,Direct Expenses,Total Direct Cost,7347.79,Annual Revenue Report 2023-2024.csv
+2024,January,Direct Expenses,Total Direct Cost,6842.58,Annual Revenue Report 2023-2024.csv
+2024,February,Direct Expenses,Total Direct Cost,8917.75,Annual Revenue Report 2023-2024.csv
+2024,March,Direct Expenses,Total Direct Cost,10064.61,Annual Revenue Report 2023-2024.csv
+2023,April,Direct Expenses,Total Manpower Cost,3830.79,Annual Revenue Report 2023-2024.csv
+2023,May,Direct Expenses,Total Manpower Cost,3737.39,Annual Revenue Report 2023-2024.csv
+2023,June,Direct Expenses,Total Manpower Cost,4081.25,Annual Revenue Report 2023-2024.csv
+2023,July,Direct Expenses,Total Manpower Cost,4006.36,Annual Revenue Report 2023-2024.csv
+2023,August,Direct Expenses,Total Manpower Cost,2558.75,Annual Revenue Report 2023-2024.csv
+2023,September,Direct Expenses,Total Manpower Cost,3850.58,Annual Revenue Report 2023-2024.csv
+2023,October,Direct Expenses,Total Manpower Cost,3678.11,Annual Revenue Report 2023-2024.csv
+2023,November,Direct Expenses,Total Manpower Cost,3731.64,Annual Revenue Report 2023-2024.csv
+2023,December,Direct Expenses,Total Manpower Cost,2650.79,Annual Revenue Report 2023-2024.csv
+2024,January,Direct Expenses,Total Manpower Cost,3473.28,Annual Revenue Report 2023-2024.csv
+2024,February,Direct Expenses,Total Manpower Cost,3895.69,Annual Revenue Report 2023-2024.csv
+2024,March,Direct Expenses,Total Manpower Cost,4232.4,Annual Revenue Report 2023-2024.csv
+2023,April,Indirect Expenses,Indirect Cost,2902.77,Annual Revenue Report 2023-2024.csv
+2023,May,Indirect Expenses,Indirect Cost,2853.06,Annual Revenue Report 2023-2024.csv
+2023,June,Indirect Expenses,Indirect Cost,2853.29,Annual Revenue Report 2023-2024.csv
+2023,July,Indirect Expenses,Indirect Cost,2998.57,Annual Revenue Report 2023-2024.csv
+2023,August,Indirect Expenses,Indirect Cost,2139.32,Annual Revenue Report 2023-2024.csv
+2023,September,Indirect Expenses,Indirect Cost,2876.09,Annual Revenue Report 2023-2024.csv
+2023,October,Indirect Expenses,Indirect Cost,2784.26,Annual Revenue Report 2023-2024.csv
+2023,November,Indirect Expenses,Indirect Cost,18492.77,Annual Revenue Report 2023-2024.csv
+2023,December,Indirect Expenses,Indirect Cost,2041.19,Annual Revenue Report 2023-2024.csv
+2024,January,Indirect Expenses,Indirect Cost,2623.58,Annual Revenue Report 2023-2024.csv
+2024,February,Indirect Expenses,Indirect Cost,2874.48,Annual Revenue Report 2023-2024.csv
+2024,March,Indirect Expenses,Indirect Cost,3745.75,Annual Revenue Report 2023-2024.csv
+2023,April,Depreciation,Depreciation,357.3,Annual Revenue Report 2023-2024.csv
+2023,May,Depreciation,Depreciation,357.16,Annual Revenue Report 2023-2024.csv
+2023,June,Depreciation,Depreciation,358.15,Annual Revenue Report 2023-2024.csv
+2023,July,Depreciation,Depreciation,363.49,Annual Revenue Report 2023-2024.csv
+2023,August,Depreciation,Depreciation,364.12,Annual Revenue Report 2023-2024.csv
+2023,September,Depreciation,Depreciation,362.07,Annual Revenue Report 2023-2024.csv
+2023,October,Depreciation,Depreciation,361.79,Annual Revenue Report 2023-2024.csv
+2023,November,Depreciation,Depreciation,298.24,Annual Revenue Report 2023-2024.csv
+2023,December,Depreciation,Depreciation,291.04,Annual Revenue Report 2023-2024.csv
+2024,January,Depreciation,Depreciation,287.24,Annual Revenue Report 2023-2024.csv
+2024,February,Depreciation,Depreciation,287.08,Annual Revenue Report 2023-2024.csv
+2024,March,Depreciation,Depreciation,278.02,Annual Revenue Report 2023-2024.csv
+2023,April,Depreciation,Depreciation and Amortization Expense,357.3,Annual Revenue Report 2023-2024.csv
+2023,May,Depreciation,Depreciation and Amortization Expense,357.16,Annual Revenue Report 2023-2024.csv
+2023,June,Depreciation,Depreciation and Amortization Expense,358.15,Annual Revenue Report 2023-2024.csv
+2023,July,Depreciation,Depreciation and Amortization Expense,363.49,Annual Revenue Report 2023-2024.csv
+2023,August,Depreciation,Depreciation and Amortization Expense,364.12,Annual Revenue Report 2023-2024.csv
+2023,September,Depreciation,Depreciation and Amortization Expense,362.07,Annual Revenue Report 2023-2024.csv
+2023,October,Depreciation,Depreciation and Amortization Expense,361.79,Annual Revenue Report 2023-2024.csv
+2023,November,Depreciation,Depreciation and Amortization Expense,298.24,Annual Revenue Report 2023-2024.csv
+2023,December,Depreciation,Depreciation and Amortization Expense,291.04,Annual Revenue Report 2023-2024.csv
+2024,January,Depreciation,Depreciation and Amortization Expense,287.24,Annual Revenue Report 2023-2024.csv
+2024,February,Depreciation,Depreciation and Amortization Expense,287.08,Annual Revenue Report 2023-2024.csv
+2024,March,Depreciation,Depreciation and Amortization Expense,278.02,Annual Revenue Report 2023-2024.csv
+2023,April,Finance Costs,Total Finance Cost,0.93,Annual Revenue Report 2023-2024.csv
+2023,May,Finance Costs,Total Finance Cost,0.93,Annual Revenue Report 2023-2024.csv
+2023,June,Finance Costs,Total Finance Cost,0.93,Annual Revenue Report 2023-2024.csv
+2023,July,Finance Costs,Total Finance Cost,0.93,Annual Revenue Report 2023-2024.csv
+2023,August,Finance Costs,Total Finance Cost,0.93,Annual Revenue Report 2023-2024.csv
+2023,September,Finance Costs,Total Finance Cost,0.93,Annual Revenue Report 2023-2024.csv
+2023,October,Finance Costs,Total Finance Cost,0.93,Annual Revenue Report 2023-2024.csv
+2023,November,Finance Costs,Total Finance Cost,0.93,Annual Revenue Report 2023-2024.csv
+2023,December,Finance Costs,Total Finance Cost,0.93,Annual Revenue Report 2023-2024.csv
+2024,January,Finance Costs,Total Finance Cost,0.93,Annual Revenue Report 2023-2024.csv
+2024,February,Finance Costs,Total Finance Cost,0.93,Annual Revenue Report 2023-2024.csv
+2024,March,Finance Costs,Total Finance Cost,0.93,Annual Revenue Report 2023-2024.csv
+2023,April,Profit,PBITDA,-837.98,Annual Revenue Report 2023-2024.csv
+2023,May,Profit,PBITDA,-421.52,Annual Revenue Report 2023-2024.csv
+2023,June,Profit,PBITDA,752.93,Annual Revenue Report 2023-2024.csv
+2023,July,Profit,PBITDA,1.73,Annual Revenue Report 2023-2024.csv
+2023,August,Profit,PBITDA,-1062.6,Annual Revenue Report 2023-2024.csv
+2023,September,Profit,PBITDA,450.49,Annual Revenue Report 2023-2024.csv
+2023,October,Profit,PBITDA,-770.42,Annual Revenue Report 2023-2024.csv
+2023,November,Profit,PBITDA,-961.38,Annual Revenue Report 2023-2024.csv
+2023,December,Profit,PBITDA,701.28,Annual Revenue Report 2023-2024.csv
+2024,January,Profit,PBITDA,-1847.52,Annual Revenue Report 2023-2024.csv
+2024,February,Profit,PBITDA,-2338.73,Annual Revenue Report 2023-2024.csv
+2024,March,Profit,PBITDA,-1832.26,Annual Revenue Report 2023-2024.csv
+2023,April,Profit,EBIT,-1195.28,Annual Revenue Report 2023-2024.csv
+2023,May,Profit,EBIT,-778.68,Annual Revenue Report 2023-2024.csv
+2023,June,Profit,EBIT,394.77,Annual Revenue Report 2023-2024.csv
+2023,July,Profit,EBIT,-361.76,Annual Revenue Report 2023-2024.csv
+2023,August,Profit,EBIT,-1426.72,Annual Revenue Report 2023-2024.csv
+2023,September,Profit,EBIT,88.42,Annual Revenue Report 2023-2024.csv
+2023,October,Profit,EBIT,-1132.21,Annual Revenue Report 2023-2024.csv
+2023,November,Profit,EBIT,-1259.62,Annual Revenue Report 2023-2024.csv
+2023,December,Profit,EBIT,410.25,Annual Revenue Report 2023-2024.csv
+2024,January,Profit,EBIT,-2134.76,Annual Revenue Report 2023-2024.csv
+2024,February,Profit,EBIT,-2625.81,Annual Revenue Report 2023-2024.csv
+2024,March,Profit,EBIT,-2110.28,Annual Revenue Report 2023-2024.csv
+2023,April,Profit,Operating PBITDA,-837.98,Annual Revenue Report 2023-2024.csv
+2023,May,Profit,Operating PBITDA,-421.52,Annual Revenue Report 2023-2024.csv
+2023,June,Profit,Operating PBITDA,752.93,Annual Revenue Report 2023-2024.csv
+2023,July,Profit,Operating PBITDA,1.73,Annual Revenue Report 2023-2024.csv
+2023,August,Profit,Operating PBITDA,-1062.6,Annual Revenue Report 2023-2024.csv
+2023,September,Profit,Operating PBITDA,450.49,Annual Revenue Report 2023-2024.csv
+2023,October,Profit,Operating PBITDA,-770.42,Annual Revenue Report 2023-2024.csv
+2023,November,Profit,Operating PBITDA,-961.38,Annual Revenue Report 2023-2024.csv
+2023,December,Profit,Operating PBITDA,701.28,Annual Revenue Report 2023-2024.csv
+2024,January,Profit,Operating PBITDA,-1847.52,Annual Revenue Report 2023-2024.csv
+2024,February,Profit,Operating PBITDA,-2338.73,Annual Revenue Report 2023-2024.csv
+2024,March,Profit,Operating PBITDA,-1832.26,Annual Revenue Report 2023-2024.csv
+2023,April,Profit,PBIT,-1195.28,Annual Revenue Report 2023-2024.csv
+2023,May,Profit,PBIT,-778.68,Annual Revenue Report 2023-2024.csv
+2023,June,Profit,PBIT,394.77,Annual Revenue Report 2023-2024.csv
+2023,July,Profit,PBIT,-361.76,Annual Revenue Report 2023-2024.csv
+2023,August,Profit,PBIT,-1426.72,Annual Revenue Report 2023-2024.csv
+2023,September,Profit,PBIT,88.42,Annual Revenue Report 2023-2024.csv
+2023,October,Profit,PBIT,-1132.21,Annual Revenue Report 2023-2024.csv
+2023,November,Profit,PBIT,-1259.62,Annual Revenue Report 2023-2024.csv
+2023,December,Profit,PBIT,410.25,Annual Revenue Report 2023-2024.csv
+2024,January,Profit,PBIT,-2134.76,Annual Revenue Report 2023-2024.csv
+2024,February,Profit,PBIT,-2625.81,Annual Revenue Report 2023-2024.csv
+2024,March,Profit,PBIT,-2110.28,Annual Revenue Report 2023-2024.csv
+2023,April,Profit,Operating PBIT,-1195.28,Annual Revenue Report 2023-2024.csv
+2023,May,Profit,Operating PBIT,-778.68,Annual Revenue Report 2023-2024.csv
+2023,June,Profit,Operating PBIT,394.77,Annual Revenue Report 2023-2024.csv
+2023,July,Profit,Operating PBIT,-361.76,Annual Revenue Report 2023-2024.csv
+2023,August,Profit,Operating PBIT,-1426.72,Annual Revenue Report 2023-2024.csv
+2023,September,Profit,Operating PBIT,88.42,Annual Revenue Report 2023-2024.csv
+2023,October,Profit,Operating PBIT,-1132.21,Annual Revenue Report 2023-2024.csv
+2023,November,Profit,Operating PBIT,-1259.62,Annual Revenue Report 2023-2024.csv
+2023,December,Profit,Operating PBIT,410.25,Annual Revenue Report 2023-2024.csv
+2024,January,Profit,Operating PBIT,-2134.76,Annual Revenue Report 2023-2024.csv
+2024,February,Profit,Operating PBIT,-2625.81,Annual Revenue Report 2023-2024.csv
+2024,March,Profit,Operating PBIT,-2110.28,Annual Revenue Report 2023-2024.csv
+2023,April,Profit,PBT,-1196.22,Annual Revenue Report 2023-2024.csv
+2023,May,Profit,PBT,-779.62,Annual Revenue Report 2023-2024.csv
+2023,June,Profit,PBT,393.84,Annual Revenue Report 2023-2024.csv
+2023,July,Profit,PBT,-362.69,Annual Revenue Report 2023-2024.csv
+2023,August,Profit,PBT,-1427.66,Annual Revenue Report 2023-2024.csv
+2023,September,Profit,PBT,87.49,Annual Revenue Report 2023-2024.csv
+2023,October,Profit,PBT,-1133.15,Annual Revenue Report 2023-2024.csv
+2023,November,Profit,PBT,-1260.55,Annual Revenue Report 2023-2024.csv
+2023,December,Profit,PBT,409.31,Annual Revenue Report 2023-2024.csv
+2024,January,Profit,PBT,-2135.69,Annual Revenue Report 2023-2024.csv
+2024,February,Profit,PBT,-2626.74,Annual Revenue Report 2023-2024.csv
+2024,March,Profit,PBT,-2111.21,Annual Revenue Report 2023-2024.csv
+2023,April,Profit,Profit After Tax,-1196.22,Annual Revenue Report 2023-2024.csv
+2023,May,Profit,Profit After Tax,-779.62,Annual Revenue Report 2023-2024.csv
+2023,June,Profit,Profit After Tax,393.84,Annual Revenue Report 2023-2024.csv
+2023,July,Profit,Profit After Tax,-362.69,Annual Revenue Report 2023-2024.csv
+2023,August,Profit,Profit After Tax,-1427.66,Annual Revenue Report 2023-2024.csv
+2023,September,Profit,Profit After Tax,87.49,Annual Revenue Report 2023-2024.csv
+2023,October,Profit,Profit After Tax,-1133.15,Annual Revenue Report 2023-2024.csv
+2023,November,Profit,Profit After Tax,-1260.55,Annual Revenue Report 2023-2024.csv
+2023,December,Profit,Profit After Tax,409.31,Annual Revenue Report 2023-2024.csv
+2024,January,Profit,Profit After Tax,-2135.69,Annual Revenue Report 2023-2024.csv
+2024,February,Profit,Profit After Tax,-2626.74,Annual Revenue Report 2023-2024.csv
+2024,March,Profit,Profit After Tax,-2111.21,Annual Revenue Report 2023-2024.csv
+2023,April,Profit,Profit Available For Appropriation,-1196.22,Annual Revenue Report 2023-2024.csv
+2023,May,Profit,Profit Available For Appropriation,-779.62,Annual Revenue Report 2023-2024.csv
+2023,June,Profit,Profit Available For Appropriation,393.84,Annual Revenue Report 2023-2024.csv
+2023,July,Profit,Profit Available For Appropriation,-362.69,Annual Revenue Report 2023-2024.csv
+2023,August,Profit,Profit Available For Appropriation,-1427.66,Annual Revenue Report 2023-2024.csv
+2023,September,Profit,Profit Available For Appropriation,87.49,Annual Revenue Report 2023-2024.csv
+2023,October,Profit,Profit Available For Appropriation,-1133.15,Annual Revenue Report 2023-2024.csv
+2023,November,Profit,Profit Available For Appropriation,-1260.55,Annual Revenue Report 2023-2024.csv
+2023,December,Profit,Profit Available For Appropriation,409.31,Annual Revenue Report 2023-2024.csv
+2024,January,Profit,Profit Available For Appropriation,-2135.69,Annual Revenue Report 2023-2024.csv
+2024,February,Profit,Profit Available For Appropriation,-2626.74,Annual Revenue Report 2023-2024.csv
+2024,March,Profit,Profit Available For Appropriation,-2111.21,Annual Revenue Report 2023-2024.csv
+2023,April,Profit,PAT carried to Balance Sheet,-1196.22,Annual Revenue Report 2023-2024.csv
+2023,May,Profit,PAT carried to Balance Sheet,-779.62,Annual Revenue Report 2023-2024.csv
+2023,June,Profit,PAT carried to Balance Sheet,393.84,Annual Revenue Report 2023-2024.csv
+2023,July,Profit,PAT carried to Balance Sheet,-362.69,Annual Revenue Report 2023-2024.csv
+2023,August,Profit,PAT carried to Balance Sheet,-1427.66,Annual Revenue Report 2023-2024.csv
+2023,September,Profit,PAT carried to Balance Sheet,87.49,Annual Revenue Report 2023-2024.csv
+2023,October,Profit,PAT carried to Balance Sheet,-1133.15,Annual Revenue Report 2023-2024.csv
+2023,November,Profit,PAT carried to Balance Sheet,-1260.55,Annual Revenue Report 2023-2024.csv
+2023,December,Profit,PAT carried to Balance Sheet,409.31,Annual Revenue Report 2023-2024.csv
+2024,January,Profit,PAT carried to Balance Sheet,-2135.69,Annual Revenue Report 2023-2024.csv
+2024,February,Profit,PAT carried to Balance Sheet,-2626.74,Annual Revenue Report 2023-2024.csv
+2024,March,Profit,PAT carried to Balance Sheet,-2111.21,Annual Revenue Report 2023-2024.csv
+2023,April,Profit,Cash Profit Before Tax,-838.92,Annual Revenue Report 2023-2024.csv
+2023,May,Profit,Cash Profit Before Tax,-422.46,Annual Revenue Report 2023-2024.csv
+2023,June,Profit,Cash Profit Before Tax,751.99,Annual Revenue Report 2023-2024.csv
+2023,July,Profit,Cash Profit Before Tax,0.8,Annual Revenue Report 2023-2024.csv
+2023,August,Profit,Cash Profit Before Tax,-1063.54,Annual Revenue Report 2023-2024.csv
+2023,September,Profit,Cash Profit Before Tax,449.55,Annual Revenue Report 2023-2024.csv
+2023,October,Profit,Cash Profit Before Tax,-771.36,Annual Revenue Report 2023-2024.csv
+2023,November,Profit,Cash Profit Before Tax,-962.31,Annual Revenue Report 2023-2024.csv
+2023,December,Profit,Cash Profit Before Tax,700.35,Annual Revenue Report 2023-2024.csv
+2024,January,Profit,Cash Profit Before Tax,-1848.45,Annual Revenue Report 2023-2024.csv
+2024,February,Profit,Cash Profit Before Tax,-2339.66,Annual Revenue Report 2023-2024.csv
+2024,March,Profit,Cash Profit Before Tax,-1833.19,Annual Revenue Report 2023-2024.csv
+2023,April,Profit,Cash Profit After Tax,-838.92,Annual Revenue Report 2023-2024.csv
+2023,May,Profit,Cash Profit After Tax,-422.46,Annual Revenue Report 2023-2024.csv
+2023,June,Profit,Cash Profit After Tax,751.99,Annual Revenue Report 2023-2024.csv
+2023,July,Profit,Cash Profit After Tax,0.8,Annual Revenue Report 2023-2024.csv
+2023,August,Profit,Cash Profit After Tax,-1063.54,Annual Revenue Report 2023-2024.csv
+2023,September,Profit,Cash Profit After Tax,449.55,Annual Revenue Report 2023-2024.csv
+2023,October,Profit,Cash Profit After Tax,-771.36,Annual Revenue Report 2023-2024.csv
+2023,November,Profit,Cash Profit After Tax,-962.31,Annual Revenue Report 2023-2024.csv
+2023,December,Profit,Cash Profit After Tax,700.35,Annual Revenue Report 2023-2024.csv
+2024,January,Profit,Cash Profit After Tax,-1848.45,Annual Revenue Report 2023-2024.csv
+2024,February,Profit,Cash Profit After Tax,-2339.66,Annual Revenue Report 2023-2024.csv
+2024,March,Profit,Cash Profit After Tax,-1833.19,Annual Revenue Report 2023-2024.csv
+2023,April,Profit,Gross Profit,2001.74,Annual Revenue Report 2023-2024.csv
+2023,May,Profit,Gross Profit,2378.38,Annual Revenue Report 2023-2024.csv
+2023,June,Profit,Gross Profit,2927.76,Annual Revenue Report 2023-2024.csv
+2023,July,Profit,Gross Profit,2899.34,Annual Revenue Report 2023-2024.csv
+2023,August,Profit,Gross Profit,804.97,Annual Revenue Report 2023-2024.csv
+2023,September,Profit,Gross Profit,3128.84,Annual Revenue Report 2023-2024.csv
+2023,October,Profit,Gross Profit,1916.43,Annual Revenue Report 2023-2024.csv
+2023,November,Profit,Gross Profit,1762.62,Annual Revenue Report 2023-2024.csv
+2023,December,Profit,Gross Profit,2696.49,Annual Revenue Report 2023-2024.csv
+2024,January,Profit,Gross Profit,751.81,Annual Revenue Report 2023-2024.csv
+2024,February,Profit,Gross Profit,484.49,Annual Revenue Report 2023-2024.csv
+2024,March,Profit,Gross Profit,1608.89,Annual Revenue Report 2023-2024.csv
+2024,April,Income,Total Revenue,14194.9,Annual Revenue Report 2024-2025.csv
+2024,May,Income,Total Revenue,14642.83,Annual Revenue Report 2024-2025.csv
+2024,June,Income,Total Revenue,16803.01,Annual Revenue Report 2024-2025.csv
+2024,July,Income,Total Revenue,15307.68,Annual Revenue Report 2024-2025.csv
+2024,August,Income,Total Revenue,9067.83,Annual Revenue Report 2024-2025.csv
+2024,September,Income,Total Revenue,16515.27,Annual Revenue Report 2024-2025.csv
+2024,October,Income,Total Revenue,11973.36,Annual Revenue Report 2024-2025.csv
+2024,November,Income,Total Revenue,28271.3,Annual Revenue Report 2024-2025.csv
+2024,December,Income,Total Revenue,10090.26,Annual Revenue Report 2024-2025.csv
+2025,January,Income,Total Revenue,7618.64,Annual Revenue Report 2024-2025.csv
+2025,February,Income,Total Revenue,9453.5,Annual Revenue Report 2024-2025.csv
+2025,March,Income,Total Revenue,11978.1,Annual Revenue Report 2024-2025.csv
+2024,April,Direct Expenses,Total Direct Cost,12130.11,Annual Revenue Report 2024-2025.csv
+2024,May,Direct Expenses,Total Direct Cost,12211.3,Annual Revenue Report 2024-2025.csv
+2024,June,Direct Expenses,Total Direct Cost,13196.79,Annual Revenue Report 2024-2025.csv
+2024,July,Direct Expenses,Total Direct Cost,12307.38,Annual Revenue Report 2024-2025.csv
+2024,August,Direct Expenses,Total Direct Cost,7991.11,Annual Revenue Report 2024-2025.csv
+2024,September,Direct Expenses,Total Direct Cost,13188.68,Annual Revenue Report 2024-2025.csv
+2024,October,Direct Expenses,Total Direct Cost,9959.52,Annual Revenue Report 2024-2025.csv
+2024,November,Direct Expenses,Total Direct Cost,10739.9,Annual Revenue Report 2024-2025.csv
+2024,December,Direct Expenses,Total Direct Cost,7347.79,Annual Revenue Report 2024-2025.csv
+2025,January,Direct Expenses,Total Direct Cost,6842.58,Annual Revenue Report 2024-2025.csv
+2025,February,Direct Expenses,Total Direct Cost,8917.75,Annual Revenue Report 2024-2025.csv
+2025,March,Direct Expenses,Total Direct Cost,10064.61,Annual Revenue Report 2024-2025.csv
+2024,April,Direct Expenses,Total Manpower Cost,3830.79,Annual Revenue Report 2024-2025.csv
+2024,May,Direct Expenses,Total Manpower Cost,3737.39,Annual Revenue Report 2024-2025.csv
+2024,June,Direct Expenses,Total Manpower Cost,4081.25,Annual Revenue Report 2024-2025.csv
+2024,July,Direct Expenses,Total Manpower Cost,4006.36,Annual Revenue Report 2024-2025.csv
+2024,August,Direct Expenses,Total Manpower Cost,2558.75,Annual Revenue Report 2024-2025.csv
+2024,September,Direct Expenses,Total Manpower Cost,3850.58,Annual Revenue Report 2024-2025.csv
+2024,October,Direct Expenses,Total Manpower Cost,3678.11,Annual Revenue Report 2024-2025.csv
+2024,November,Direct Expenses,Total Manpower Cost,3731.64,Annual Revenue Report 2024-2025.csv
+2024,December,Direct Expenses,Total Manpower Cost,2650.79,Annual Revenue Report 2024-2025.csv
+2025,January,Direct Expenses,Total Manpower Cost,3473.28,Annual Revenue Report 2024-2025.csv
+2025,February,Direct Expenses,Total Manpower Cost,3895.69,Annual Revenue Report 2024-2025.csv
+2025,March,Direct Expenses,Total Manpower Cost,4232.4,Annual Revenue Report 2024-2025.csv
+2024,April,Indirect Expenses,Indirect Cost,2902.77,Annual Revenue Report 2024-2025.csv
+2024,May,Indirect Expenses,Indirect Cost,2853.06,Annual Revenue Report 2024-2025.csv
+2024,June,Indirect Expenses,Indirect Cost,2853.29,Annual Revenue Report 2024-2025.csv
+2024,July,Indirect Expenses,Indirect Cost,2998.57,Annual Revenue Report 2024-2025.csv
+2024,August,Indirect Expenses,Indirect Cost,2139.32,Annual Revenue Report 2024-2025.csv
+2024,September,Indirect Expenses,Indirect Cost,2876.09,Annual Revenue Report 2024-2025.csv
+2024,October,Indirect Expenses,Indirect Cost,2784.26,Annual Revenue Report 2024-2025.csv
+2024,November,Indirect Expenses,Indirect Cost,18492.77,Annual Revenue Report 2024-2025.csv
+2024,December,Indirect Expenses,Indirect Cost,2041.19,Annual Revenue Report 2024-2025.csv
+2025,January,Indirect Expenses,Indirect Cost,2623.58,Annual Revenue Report 2024-2025.csv
+2025,February,Indirect Expenses,Indirect Cost,2874.48,Annual Revenue Report 2024-2025.csv
+2025,March,Indirect Expenses,Indirect Cost,3745.75,Annual Revenue Report 2024-2025.csv
+2024,April,Depreciation,Depreciation,357.3,Annual Revenue Report 2024-2025.csv
+2024,May,Depreciation,Depreciation,357.16,Annual Revenue Report 2024-2025.csv
+2024,June,Depreciation,Depreciation,358.15,Annual Revenue Report 2024-2025.csv
+2024,July,Depreciation,Depreciation,363.49,Annual Revenue Report 2024-2025.csv
+2024,August,Depreciation,Depreciation,364.12,Annual Revenue Report 2024-2025.csv
+2024,September,Depreciation,Depreciation,362.07,Annual Revenue Report 2024-2025.csv
+2024,October,Depreciation,Depreciation,361.79,Annual Revenue Report 2024-2025.csv
+2024,November,Depreciation,Depreciation,298.24,Annual Revenue Report 2024-2025.csv
+2024,December,Depreciation,Depreciation,291.04,Annual Revenue Report 2024-2025.csv
+2025,January,Depreciation,Depreciation,287.24,Annual Revenue Report 2024-2025.csv
+2025,February,Depreciation,Depreciation,287.08,Annual Revenue Report 2024-2025.csv
+2025,March,Depreciation,Depreciation,278.02,Annual Revenue Report 2024-2025.csv
+2024,April,Depreciation,Depreciation and Amortization Expense,357.3,Annual Revenue Report 2024-2025.csv
+2024,May,Depreciation,Depreciation and Amortization Expense,357.16,Annual Revenue Report 2024-2025.csv
+2024,June,Depreciation,Depreciation and Amortization Expense,358.15,Annual Revenue Report 2024-2025.csv
+2024,July,Depreciation,Depreciation and Amortization Expense,363.49,Annual Revenue Report 2024-2025.csv
+2024,August,Depreciation,Depreciation and Amortization Expense,364.12,Annual Revenue Report 2024-2025.csv
+2024,September,Depreciation,Depreciation and Amortization Expense,362.07,Annual Revenue Report 2024-2025.csv
+2024,October,Depreciation,Depreciation and Amortization Expense,361.79,Annual Revenue Report 2024-2025.csv
+2024,November,Depreciation,Depreciation and Amortization Expense,298.24,Annual Revenue Report 2024-2025.csv
+2024,December,Depreciation,Depreciation and Amortization Expense,291.04,Annual Revenue Report 2024-2025.csv
+2025,January,Depreciation,Depreciation and Amortization Expense,287.24,Annual Revenue Report 2024-2025.csv
+2025,February,Depreciation,Depreciation and Amortization Expense,287.08,Annual Revenue Report 2024-2025.csv
+2025,March,Depreciation,Depreciation and Amortization Expense,278.02,Annual Revenue Report 2024-2025.csv
+2024,April,Finance Costs,Total Finance Cost,0.93,Annual Revenue Report 2024-2025.csv
+2024,May,Finance Costs,Total Finance Cost,0.93,Annual Revenue Report 2024-2025.csv
+2024,June,Finance Costs,Total Finance Cost,0.93,Annual Revenue Report 2024-2025.csv
+2024,July,Finance Costs,Total Finance Cost,0.93,Annual Revenue Report 2024-2025.csv
+2024,August,Finance Costs,Total Finance Cost,0.93,Annual Revenue Report 2024-2025.csv
+2024,September,Finance Costs,Total Finance Cost,0.93,Annual Revenue Report 2024-2025.csv
+2024,October,Finance Costs,Total Finance Cost,0.93,Annual Revenue Report 2024-2025.csv
+2024,November,Finance Costs,Total Finance Cost,0.93,Annual Revenue Report 2024-2025.csv
+2024,December,Finance Costs,Total Finance Cost,0.93,Annual Revenue Report 2024-2025.csv
+2025,January,Finance Costs,Total Finance Cost,0.93,Annual Revenue Report 2024-2025.csv
+2025,February,Finance Costs,Total Finance Cost,0.93,Annual Revenue Report 2024-2025.csv
+2025,March,Finance Costs,Total Finance Cost,0.93,Annual Revenue Report 2024-2025.csv
+2024,April,Profit,PBITDA,-837.98,Annual Revenue Report 2024-2025.csv
+2024,May,Profit,PBITDA,-421.52,Annual Revenue Report 2024-2025.csv
+2024,June,Profit,PBITDA,752.93,Annual Revenue Report 2024-2025.csv
+2024,July,Profit,PBITDA,1.73,Annual Revenue Report 2024-2025.csv
+2024,August,Profit,PBITDA,-1062.6,Annual Revenue Report 2024-2025.csv
+2024,September,Profit,PBITDA,450.49,Annual Revenue Report 2024-2025.csv
+2024,October,Profit,PBITDA,-770.42,Annual Revenue Report 2024-2025.csv
+2024,November,Profit,PBITDA,-961.38,Annual Revenue Report 2024-2025.csv
+2024,December,Profit,PBITDA,701.28,Annual Revenue Report 2024-2025.csv
+2025,January,Profit,PBITDA,-1847.52,Annual Revenue Report 2024-2025.csv
+2025,February,Profit,PBITDA,-2338.73,Annual Revenue Report 2024-2025.csv
+2025,March,Profit,PBITDA,-1832.26,Annual Revenue Report 2024-2025.csv
+2024,April,Profit,EBIT,-1195.28,Annual Revenue Report 2024-2025.csv
+2024,May,Profit,EBIT,-778.68,Annual Revenue Report 2024-2025.csv
+2024,June,Profit,EBIT,394.77,Annual Revenue Report 2024-2025.csv
+2024,July,Profit,EBIT,-361.76,Annual Revenue Report 2024-2025.csv
+2024,August,Profit,EBIT,-1426.72,Annual Revenue Report 2024-2025.csv
+2024,September,Profit,EBIT,88.42,Annual Revenue Report 2024-2025.csv
+2024,October,Profit,EBIT,-1132.21,Annual Revenue Report 2024-2025.csv
+2024,November,Profit,EBIT,-1259.62,Annual Revenue Report 2024-2025.csv
+2024,December,Profit,EBIT,410.25,Annual Revenue Report 2024-2025.csv
+2025,January,Profit,EBIT,-2134.76,Annual Revenue Report 2024-2025.csv
+2025,February,Profit,EBIT,-2625.81,Annual Revenue Report 2024-2025.csv
+2025,March,Profit,EBIT,-2110.28,Annual Revenue Report 2024-2025.csv
+2024,April,Profit,Operating PBITDA,-837.98,Annual Revenue Report 2024-2025.csv
+2024,May,Profit,Operating PBITDA,-421.52,Annual Revenue Report 2024-2025.csv
+2024,June,Profit,Operating PBITDA,752.93,Annual Revenue Report 2024-2025.csv
+2024,July,Profit,Operating PBITDA,1.73,Annual Revenue Report 2024-2025.csv
+2024,August,Profit,Operating PBITDA,-1062.6,Annual Revenue Report 2024-2025.csv
+2024,September,Profit,Operating PBITDA,450.49,Annual Revenue Report 2024-2025.csv
+2024,October,Profit,Operating PBITDA,-770.42,Annual Revenue Report 2024-2025.csv
+2024,November,Profit,Operating PBITDA,-961.38,Annual Revenue Report 2024-2025.csv
+2024,December,Profit,Operating PBITDA,701.28,Annual Revenue Report 2024-2025.csv
+2025,January,Profit,Operating PBITDA,-1847.52,Annual Revenue Report 2024-2025.csv
+2025,February,Profit,Operating PBITDA,-2338.73,Annual Revenue Report 2024-2025.csv
+2025,March,Profit,Operating PBITDA,-1832.26,Annual Revenue Report 2024-2025.csv
+2024,April,Profit,PBIT,-1195.28,Annual Revenue Report 2024-2025.csv
+2024,May,Profit,PBIT,-778.68,Annual Revenue Report 2024-2025.csv
+2024,June,Profit,PBIT,394.77,Annual Revenue Report 2024-2025.csv
+2024,July,Profit,PBIT,-361.76,Annual Revenue Report 2024-2025.csv
+2024,August,Profit,PBIT,-1426.72,Annual Revenue Report 2024-2025.csv
+2024,September,Profit,PBIT,88.42,Annual Revenue Report 2024-2025.csv
+2024,October,Profit,PBIT,-1132.21,Annual Revenue Report 2024-2025.csv
+2024,November,Profit,PBIT,-1259.62,Annual Revenue Report 2024-2025.csv
+2024,December,Profit,PBIT,410.25,Annual Revenue Report 2024-2025.csv
+2025,January,Profit,PBIT,-2134.76,Annual Revenue Report 2024-2025.csv
+2025,February,Profit,PBIT,-2625.81,Annual Revenue Report 2024-2025.csv
+2025,March,Profit,PBIT,-2110.28,Annual Revenue Report 2024-2025.csv
+2024,April,Profit,Operating PBIT,-1195.28,Annual Revenue Report 2024-2025.csv
+2024,May,Profit,Operating PBIT,-778.68,Annual Revenue Report 2024-2025.csv
+2024,June,Profit,Operating PBIT,394.77,Annual Revenue Report 2024-2025.csv
+2024,July,Profit,Operating PBIT,-361.76,Annual Revenue Report 2024-2025.csv
+2024,August,Profit,Operating PBIT,-1426.72,Annual Revenue Report 2024-2025.csv
+2024,September,Profit,Operating PBIT,88.42,Annual Revenue Report 2024-2025.csv
+2024,October,Profit,Operating PBIT,-1132.21,Annual Revenue Report 2024-2025.csv
+2024,November,Profit,Operating PBIT,-1259.62,Annual Revenue Report 2024-2025.csv
+2024,December,Profit,Operating PBIT,410.25,Annual Revenue Report 2024-2025.csv
+2025,January,Profit,Operating PBIT,-2134.76,Annual Revenue Report 2024-2025.csv
+2025,February,Profit,Operating PBIT,-2625.81,Annual Revenue Report 2024-2025.csv
+2025,March,Profit,Operating PBIT,-2110.28,Annual Revenue Report 2024-2025.csv
+2024,April,Profit,PBT,-1196.22,Annual Revenue Report 2024-2025.csv
+2024,May,Profit,PBT,-779.62,Annual Revenue Report 2024-2025.csv
+2024,June,Profit,PBT,393.84,Annual Revenue Report 2024-2025.csv
+2024,July,Profit,PBT,-362.69,Annual Revenue Report 2024-2025.csv
+2024,August,Profit,PBT,-1427.66,Annual Revenue Report 2024-2025.csv
+2024,September,Profit,PBT,87.49,Annual Revenue Report 2024-2025.csv
+2024,October,Profit,PBT,-1133.15,Annual Revenue Report 2024-2025.csv
+2024,November,Profit,PBT,-1260.55,Annual Revenue Report 2024-2025.csv
+2024,December,Profit,PBT,409.31,Annual Revenue Report 2024-2025.csv
+2025,January,Profit,PBT,-2135.69,Annual Revenue Report 2024-2025.csv
+2025,February,Profit,PBT,-2626.74,Annual Revenue Report 2024-2025.csv
+2025,March,Profit,PBT,-2111.21,Annual Revenue Report 2024-2025.csv
+2024,April,Profit,Profit After Tax,-1196.22,Annual Revenue Report 2024-2025.csv
+2024,May,Profit,Profit After Tax,-779.62,Annual Revenue Report 2024-2025.csv
+2024,June,Profit,Profit After Tax,393.84,Annual Revenue Report 2024-2025.csv
+2024,July,Profit,Profit After Tax,-362.69,Annual Revenue Report 2024-2025.csv
+2024,August,Profit,Profit After Tax,-1427.66,Annual Revenue Report 2024-2025.csv
+2024,September,Profit,Profit After Tax,87.49,Annual Revenue Report 2024-2025.csv
+2024,October,Profit,Profit After Tax,-1133.15,Annual Revenue Report 2024-2025.csv
+2024,November,Profit,Profit After Tax,-1260.55,Annual Revenue Report 2024-2025.csv
+2024,December,Profit,Profit After Tax,409.31,Annual Revenue Report 2024-2025.csv
+2025,January,Profit,Profit After Tax,-2135.69,Annual Revenue Report 2024-2025.csv
+2025,February,Profit,Profit After Tax,-2626.74,Annual Revenue Report 2024-2025.csv
+2025,March,Profit,Profit After Tax,-2111.21,Annual Revenue Report 2024-2025.csv
+2024,April,Profit,Profit Available For Appropriation,-1196.22,Annual Revenue Report 2024-2025.csv
+2024,May,Profit,Profit Available For Appropriation,-779.62,Annual Revenue Report 2024-2025.csv
+2024,June,Profit,Profit Available For Appropriation,393.84,Annual Revenue Report 2024-2025.csv
+2024,July,Profit,Profit Available For Appropriation,-362.69,Annual Revenue Report 2024-2025.csv
+2024,August,Profit,Profit Available For Appropriation,-1427.66,Annual Revenue Report 2024-2025.csv
+2024,September,Profit,Profit Available For Appropriation,87.49,Annual Revenue Report 2024-2025.csv
+2024,October,Profit,Profit Available For Appropriation,-1133.15,Annual Revenue Report 2024-2025.csv
+2024,November,Profit,Profit Available For Appropriation,-1260.55,Annual Revenue Report 2024-2025.csv
+2024,December,Profit,Profit Available For Appropriation,409.31,Annual Revenue Report 2024-2025.csv
+2025,January,Profit,Profit Available For Appropriation,-2135.69,Annual Revenue Report 2024-2025.csv
+2025,February,Profit,Profit Available For Appropriation,-2626.74,Annual Revenue Report 2024-2025.csv
+2025,March,Profit,Profit Available For Appropriation,-2111.21,Annual Revenue Report 2024-2025.csv
+2024,April,Profit,PAT carried to Balance Sheet,-1196.22,Annual Revenue Report 2024-2025.csv
+2024,May,Profit,PAT carried to Balance Sheet,-779.62,Annual Revenue Report 2024-2025.csv
+2024,June,Profit,PAT carried to Balance Sheet,393.84,Annual Revenue Report 2024-2025.csv
+2024,July,Profit,PAT carried to Balance Sheet,-362.69,Annual Revenue Report 2024-2025.csv
+2024,August,Profit,PAT carried to Balance Sheet,-1427.66,Annual Revenue Report 2024-2025.csv
+2024,September,Profit,PAT carried to Balance Sheet,87.49,Annual Revenue Report 2024-2025.csv
+2024,October,Profit,PAT carried to Balance Sheet,-1133.15,Annual Revenue Report 2024-2025.csv
+2024,November,Profit,PAT carried to Balance Sheet,-1260.55,Annual Revenue Report 2024-2025.csv
+2024,December,Profit,PAT carried to Balance Sheet,409.31,Annual Revenue Report 2024-2025.csv
+2025,January,Profit,PAT carried to Balance Sheet,-2135.69,Annual Revenue Report 2024-2025.csv
+2025,February,Profit,PAT carried to Balance Sheet,-2626.74,Annual Revenue Report 2024-2025.csv
+2025,March,Profit,PAT carried to Balance Sheet,-2111.21,Annual Revenue Report 2024-2025.csv
+2024,April,Profit,Cash Profit Before Tax,-838.92,Annual Revenue Report 2024-2025.csv
+2024,May,Profit,Cash Profit Before Tax,-422.46,Annual Revenue Report 2024-2025.csv
+2024,June,Profit,Cash Profit Before Tax,751.99,Annual Revenue Report 2024-2025.csv
+2024,July,Profit,Cash Profit Before Tax,0.8,Annual Revenue Report 2024-2025.csv
+2024,August,Profit,Cash Profit Before Tax,-1063.54,Annual Revenue Report 2024-2025.csv
+2024,September,Profit,Cash Profit Before Tax,449.55,Annual Revenue Report 2024-2025.csv
+2024,October,Profit,Cash Profit Before Tax,-771.36,Annual Revenue Report 2024-2025.csv
+2024,November,Profit,Cash Profit Before Tax,-962.31,Annual Revenue Report 2024-2025.csv
+2024,December,Profit,Cash Profit Before Tax,700.35,Annual Revenue Report 2024-2025.csv
+2025,January,Profit,Cash Profit Before Tax,-1848.45,Annual Revenue Report 2024-2025.csv
+2025,February,Profit,Cash Profit Before Tax,-2339.66,Annual Revenue Report 2024-2025.csv
+2025,March,Profit,Cash Profit Before Tax,-1833.19,Annual Revenue Report 2024-2025.csv
+2024,April,Profit,Cash Profit After Tax,-838.92,Annual Revenue Report 2024-2025.csv
+2024,May,Profit,Cash Profit After Tax,-422.46,Annual Revenue Report 2024-2025.csv
+2024,June,Profit,Cash Profit After Tax,751.99,Annual Revenue Report 2024-2025.csv
+2024,July,Profit,Cash Profit After Tax,0.8,Annual Revenue Report 2024-2025.csv
+2024,August,Profit,Cash Profit After Tax,-1063.54,Annual Revenue Report 2024-2025.csv
+2024,September,Profit,Cash Profit After Tax,449.55,Annual Revenue Report 2024-2025.csv
+2024,October,Profit,Cash Profit After Tax,-771.36,Annual Revenue Report 2024-2025.csv
+2024,November,Profit,Cash Profit After Tax,-962.31,Annual Revenue Report 2024-2025.csv
+2024,December,Profit,Cash Profit After Tax,700.35,Annual Revenue Report 2024-2025.csv
+2025,January,Profit,Cash Profit After Tax,-1848.45,Annual Revenue Report 2024-2025.csv
+2025,February,Profit,Cash Profit After Tax,-2339.66,Annual Revenue Report 2024-2025.csv
+2025,March,Profit,Cash Profit After Tax,-1833.19,Annual Revenue Report 2024-2025.csv
+2024,April,Profit,Gross Profit,2001.74,Annual Revenue Report 2024-2025.csv
+2024,May,Profit,Gross Profit,2378.38,Annual Revenue Report 2024-2025.csv
+2024,June,Profit,Gross Profit,2927.76,Annual Revenue Report 2024-2025.csv
+2024,July,Profit,Gross Profit,2899.34,Annual Revenue Report 2024-2025.csv
+2024,August,Profit,Gross Profit,804.97,Annual Revenue Report 2024-2025.csv
+2024,September,Profit,Gross Profit,3128.84,Annual Revenue Report 2024-2025.csv
+2024,October,Profit,Gross Profit,1916.43,Annual Revenue Report 2024-2025.csv
+2024,November,Profit,Gross Profit,1762.62,Annual Revenue Report 2024-2025.csv
+2024,December,Profit,Gross Profit,2696.49,Annual Revenue Report 2024-2025.csv
+2025,January,Profit,Gross Profit,751.81,Annual Revenue Report 2024-2025.csv
+2025,February,Profit,Gross Profit,484.49,Annual Revenue Report 2024-2025.csv
+2025,March,Profit,Gross Profit,1608.89,Annual Revenue Report 2024-2025.csv
