@@ -64,9 +64,8 @@ Alternatively, run all cells sequentially in a Jupyter Notebook.
 ### Interact with Your Financial Data:
 1. **Upload Your CSV File:** Add a file containing your financial data.
 2. **Ask Queries:** Examples include:
-   - "What is the total income?"
-   - "How much did I spend on groceries last month?"
-   - "Generate a chart comparing income and expenses."
+   - "What is the trend in electricity cost per unit produced over the last three years?"
+   - "Generate a chart comparing total gross profit percentage change from 2022 to 2025."
 3. **Visualize Data:** View insights through graphs and charts.
 
 ---
@@ -74,10 +73,8 @@ Alternatively, run all cells sequentially in a Jupyter Notebook.
 ## Example Queries
 
 Here are some sample queries you can try:
-- "What is my total income?"
-- "Show expenses by category."
-- "What were my monthly expenses for Q1?"
-- "Plot a graph of income vs. expenses."
+- “How does the COGS-to-Revenue ratio change as revenue increases?”
+- “What is the inventory turnover ratio trend across the last three years?”
 
 You can customize these queries to suit your specific needs.
 
