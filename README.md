@@ -29,7 +29,7 @@ By integrating CrewAI for conversational querying, Pandas for data manipulation,
 Before setting up the app, ensure you have:
 - Python 3.x
 - Google Drive (optional for uploading CSV files)
-- CrewAI API Key (if using conversational query resolution)
+- OPENAI API KEY OR ANY LLM KEY (Can be host free llm on device as well)
 
 ---
 
