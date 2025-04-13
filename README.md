@@ -51,8 +51,8 @@ Install the required dependencies using the following command:
 Upload a CSV file containing your financial data (e.g., income, expenses, transactions).
 
 ### Step 2: Install Dependencies
-Run the following command in your terminal or Jupyter Notebook:
-!pip install crewAI pandas matplotlib pyngrok
+- Run the following command in your terminal or Jupyter Notebook:
+- !pip install crewAI pandas matplotlib pyngrok
 
 Alternatively, run all cells sequentially in a Jupyter Notebook.
 
