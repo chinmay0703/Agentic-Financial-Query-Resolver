@@ -16,7 +16,7 @@ The **Agentic Financial Query Resolver** is a conversational query system design
 ---
 
 ## Overview
-The **Agentic Financial Query Resolver POC** enables users to:
+The **Agentic Financial Query Resolver** enables users to:
 - Upload financial data (CSV format).
 - Ask conversational queries like "What is the total income?" or "Show expenses for Q1."
 - Generate insightful visualizations such as pie charts, bar graphs, and line charts.
