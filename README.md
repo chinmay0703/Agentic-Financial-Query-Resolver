@@ -1,6 +1,6 @@
 # Agentic Financial Query Resolver
 
-The **Agentic Financial Query Resolver POC** is a conversational query system designed to interact with financial data. It leverages modern tools like CrewAI, Pandas, and Matplotlib to analyze and visualize financial information seamlessly. This Proof of Concept (POC) empowers users to upload their financial data and explore it through natural language queries.
+The **Agentic Financial Query Resolver** is a conversational query system designed to interact with financial data. It leverages modern tools like CrewAI, Pandas, and Matplotlib to analyze and visualize financial information seamlessly. System empowers users to upload their financial data and explore it through natural language queries.
 
 ---
 
